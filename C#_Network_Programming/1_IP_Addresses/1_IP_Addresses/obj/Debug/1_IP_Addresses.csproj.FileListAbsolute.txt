@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\bin\Debug\1_IP_Addresses.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\bin\Debug\1_IP_Addresses.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\obj\Debug\1_IP_Addresses.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\obj\Debug\1_IP_Addresses.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\obj\Debug\1_IP_Addresses.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\1_IP_Addresses\1_IP_Addresses\obj\Debug\1_IP_Addresses.pdb
