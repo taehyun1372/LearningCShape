@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\bin\Debug\3_Client_Functions.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\bin\Debug\3_Client_Functions.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\obj\Debug\3_Client_Functions.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\obj\Debug\3_Client_Functions.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\obj\Debug\3_Client_Functions.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\3_Client_Functions\3_Client_Functions\obj\Debug\3_Client_Functions.pdb

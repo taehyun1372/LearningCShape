@@ -11,7 +11,7 @@ namespace _2_Server_Functions
     {
         static void Main(string[] args)
         {
-            IPEndPoint iep = new IPEndPoint(IPAddress.Parse("192.168.75.1"), 502);
+            IPEndPoint iep = new IPEndPoint(IPAddress.Parse("192.168.75.1"), 8000);
             Socket newServer = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             Console.WriteLine("Start binding..");
 

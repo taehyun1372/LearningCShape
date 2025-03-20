@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\bin\Debug\4_Blocking_Non_Blocking.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\bin\Debug\4_Blocking_Non_Blocking.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\obj\Debug\4_Blocking_Non_Blocking.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\obj\Debug\4_Blocking_Non_Blocking.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\obj\Debug\4_Blocking_Non_Blocking.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\4_Blocking_Non_Blocking\4_Blocking_Non_Blocking\obj\Debug\4_Blocking_Non_Blocking.pdb
