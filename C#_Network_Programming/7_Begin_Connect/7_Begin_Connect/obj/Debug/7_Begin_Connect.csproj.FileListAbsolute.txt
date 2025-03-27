@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\bin\Debug\7_Begin_Connect.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\bin\Debug\7_Begin_Connect.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\obj\Debug\7_Begin_Connect.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\obj\Debug\7_Begin_Connect.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\obj\Debug\7_Begin_Connect.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\7_Begin_Connect\7_Begin_Connect\obj\Debug\7_Begin_Connect.pdb

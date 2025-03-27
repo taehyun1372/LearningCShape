@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\bin\Debug\6_Begin_Accept.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\bin\Debug\6_Begin_Accept.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\obj\Debug\6_Begin_Accept.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\obj\Debug\6_Begin_Accept.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\obj\Debug\6_Begin_Accept.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\6_Begin_Accept\6_Begin_Accept\obj\Debug\6_Begin_Accept.pdb

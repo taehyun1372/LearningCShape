@@ -12,8 +12,8 @@ namespace _3_Client_Functions
     {
         static void Main(string[] args)
         {
-            IPAddress host = IPAddress.Parse("192.168.75.1");
-            IPEndPoint hostep = new IPEndPoint(host, 8000);
+            IPAddress host = IPAddress.Parse("127.0.0.1");
+            IPEndPoint hostep = new IPEndPoint(host, 1205);
             Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             Console.WriteLine("Connection started..to the host, {0}", hostep.ToString());
             sock.Connect(hostep);
