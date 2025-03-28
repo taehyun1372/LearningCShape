@@ -10,16 +10,32 @@ namespace _7_Begin_Connect
 {
     class Program
     {
+        static int manRetries = 10;
+        static int retryCount = 0;
+        static int retryDelay = 5000;
+        static IPEndPoint ep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1205);
+
         static void Main(string[] args)
         {
             Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            IPEndPoint ep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1205);
-            clientSocket.BeginConnect(ep, new AsyncCallback(Connected), clientSocket);
-            while(true)
+            
+            TryConnect(ep, clientSocket);
+            while (true)
             {
                 Thread.Sleep(2000);
-                Console.WriteLine("In Main Process");
             }
+        }
+
+        static void TryConnect(IPEndPoint ep, Socket clientSocket)
+        {
+            if (manRetries != -1 && retryCount >= manRetries)
+            {
+                Console.WriteLine("Reached retry limit");
+                return;
+            }
+            
+            Console.WriteLine("Retrying.. retry count is {0}", retryCount);
+            clientSocket.BeginConnect(ep, new AsyncCallback(Connected), clientSocket);
         }
 
         static void Connected(IAsyncResult iar)
@@ -38,12 +54,12 @@ namespace _7_Begin_Connect
                     sock.Send(data);
                     Console.WriteLine("A data sent");
                 }
-
-                
             }
             catch (SocketException)
             {
+                retryCount++;
                 Console.WriteLine("Unable to connect to host");
+                Timer retryTimer = new Timer(_ => TryConnect(ep, sock), null, retryDelay, Timeout.Infinite);
             }
         }
 

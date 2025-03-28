@@ -10,6 +10,7 @@ namespace _6_Begin_Accept
 {
     class Program
     {
+        static int clientIndex = 0;
         static void Main(string[] args)
         {
             IPEndPoint ep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1205);
@@ -22,38 +23,59 @@ namespace _6_Begin_Accept
 
             while(true)
             {
-                Console.WriteLine("Main Process is In Process");
                 Thread.Sleep(2000);
             }
-            Console.ReadLine();
-
         }
+
+
+
         public static void Connected(IAsyncResult iar)
         {
+            clientIndex++;
             Socket sock = (Socket)iar.AsyncState;
+            Console.WriteLine("Connection detected, clinet index : {0}", clientIndex);
+
+            Console.WriteLine("Server is waiting for a another connection");
+            sock.BeginAccept(new AsyncCallback(Connected), sock);
             try
             {
                 Socket clientSocket = sock.EndAccept(iar);
-                Console.WriteLine("Connection Successful");
+                Console.WriteLine("Connection Successful, clinet index : {0}", clientIndex);
+                BusinessLogic(clientSocket, clientIndex);
 
-                while(true)
+            }
+            catch (SocketException)
+            {
+                Console.WriteLine("Unable to connect to host, clinet index : {0}", clientIndex);
+            }
+        }
+
+        public static void BusinessLogic(Socket clientSocket, int clientIndex)
+        {
+            try
+            {
+                while (true)
                 {
-                    Console.WriteLine("Client Handling is in Process");
+                    Console.WriteLine("Client Handling is in Process, clinet index : {0}", clientIndex);
 
                     byte[] data = new byte[100];
                     clientSocket.Receive(data);
                     var message = Encoding.ASCII.GetString(data);
                     if (message != "")
                     {
+                        message += string.Format("client index : {0}", clientIndex);
+                        clientSocket.Send(data);
                         Console.WriteLine(message);
                     }
+
                     Thread.Sleep(1000);
                 }
             }
             catch (SocketException)
             {
-                Console.WriteLine("Unable to connect to host");
+                Console.WriteLine("The connection has been terminated, client index : {0}", clientIndex);
             }
+
         }
 
     }
