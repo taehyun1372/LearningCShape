@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\obj\Debug\8_Beign_Receive.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\obj\Debug\8_Beign_Receive.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\bin\Debug\8_Beign_Receive.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\bin\Debug\8_Beign_Receive.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\bin\Debug\8_Beign_Receive.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\obj\Debug\8_Beign_Receive.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\8_Beign_Receive\8_Beign_Receive\obj\Debug\8_Beign_Receive.pdb

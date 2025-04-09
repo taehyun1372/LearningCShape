@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\bin\Debug\9_Beign_Send.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\bin\Debug\9_Beign_Send.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\bin\Debug\9_Beign_Send.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\obj\Debug\9_Beign_Send.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\obj\Debug\9_Beign_Send.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\obj\Debug\9_Beign_Send.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\9_Beign_Send\9_Beign_Send\obj\Debug\9_Beign_Send.pdb
