@@ -1,0 +1,13 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\bin\Debug\netcoreapp3.1\12_NetworkStream_Client.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.AssemblyInfo.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\12_NetworkStream_Client\12_NetworkStream_Client\obj\Debug\netcoreapp3.1\12_NetworkStream_Client.genruntimeconfig.cache
