@@ -7,3 +7,5 @@ C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Pract
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\Windwo_Service\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\2_Topshelf_Dot_Net.csproj.CopyComplete
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\Windwo_Service\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\2_Topshelf_Dot_Net.exe
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\Windwo_Service\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\2_Topshelf_Dot_Net.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\Windwo_Service\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\NModbus4.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\Windwo_Service\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\NModbus4.xml
