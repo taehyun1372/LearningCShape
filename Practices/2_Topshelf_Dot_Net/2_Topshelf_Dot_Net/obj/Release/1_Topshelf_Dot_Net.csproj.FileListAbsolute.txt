@@ -1,0 +1,11 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\2_Topshelf_Dot_Net.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\2_Topshelf_Dot_Net.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\2_Topshelf_Dot_Net.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\NModbus4.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\Topshelf.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\NModbus4.xml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\bin\Release\Topshelf.xml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\1_Topshelf_Dot_Net.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\1_Topshelf_Dot_Net.csproj.CopyComplete
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\2_Topshelf_Dot_Net.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Topshelf_Dot_Net\2_Topshelf_Dot_Net\obj\Release\2_Topshelf_Dot_Net.pdb
