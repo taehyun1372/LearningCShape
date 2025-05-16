@@ -15,50 +15,50 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_5684D6C11B694A0BBA828D57CB990660"
+        "MsmKey" = "8:_36B921B051E64767941D26EA535A19FA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_3CF010AC3F65D3DE0ED1D00188428682"
+        "OwnerKey" = "8:_36B921B051E64767941D26EA535A19FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AB02E275A70E2A975CDECBC77AFD724E"
+        "OwnerKey" = "8:_36B921B051E64767941D26EA535A19FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C91B87922C20ABCAB9697BB94FB335EB"
-        "OwnerKey" = "8:_5684D6C11B694A0BBA828D57CB990660"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CDA8D55A4EAA2C34A20F2F05DDBA99C8"
-        "OwnerKey" = "8:_5684D6C11B694A0BBA828D57CB990660"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FE6F9D2FC8F5B7337807B634ABB25250"
-        "OwnerKey" = "8:_5684D6C11B694A0BBA828D57CB990660"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5684D6C11B694A0BBA828D57CB990660"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CDA8D55A4EAA2C34A20F2F05DDBA99C8"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FE6F9D2FC8F5B7337807B634ABB25250"
+        "OwnerKey" = "8:_36B921B051E64767941D26EA535A19FA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_C91B87922C20ABCAB9697BB94FB335EB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_36B921B051E64767941D26EA535A19FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_AB02E275A70E2A975CDECBC77AFD724E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_3CF010AC3F65D3DE0ED1D00188428682"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -133,31 +133,31 @@
     {
         "CustomAction"
         {
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_1969B499CDA447AEB5A636F84C188F74"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_45C8C356054549B996345B48B9F024E5"
             {
             "Name" = "8:Primary output from 1_Topshelf_Dot_Net (Active)"
             "Condition" = "8:"
-            "Object" = "8:_5684D6C11B694A0BBA828D57CB990660"
-            "FileType" = "3:2"
-            "InstallAction" = "3:1"
-            "Arguments" = "8:install"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_07370DB3_A484_46CC_AFC1_3658A36D4C0C"
-            "InstallerClass" = "11:FALSE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_409F90E2B60248F9BF5329DB5CD95709"
-            {
-            "Name" = "8:Primary output from 1_Topshelf_Dot_Net (Active)"
-            "Condition" = "8:"
-            "Object" = "8:_5684D6C11B694A0BBA828D57CB990660"
+            "Object" = "8:_36B921B051E64767941D26EA535A19FA"
             "FileType" = "3:2"
             "InstallAction" = "3:4"
             "Arguments" = "8:uninstall"
             "EntryPoint" = "8:"
             "Sequence" = "3:1"
-            "Identifier" = "8:_6EF12339_5AA4_4126_9166_A14C56671F76"
+            "Identifier" = "8:_58F6C47B_E09A_4D20_B720_78F0F5A13381"
+            "InstallerClass" = "11:FALSE"
+            "CustomActionData" = "8:"
+            }
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_4D036CBF98EC4382A17D162C7815F374"
+            {
+            "Name" = "8:Primary output from 1_Topshelf_Dot_Net (Active)"
+            "Condition" = "8:"
+            "Object" = "8:_36B921B051E64767941D26EA535A19FA"
+            "FileType" = "3:2"
+            "InstallAction" = "3:1"
+            "Arguments" = "8:install"
+            "EntryPoint" = "8:"
+            "Sequence" = "3:1"
+            "Identifier" = "8:_E1902BE9_472F_4F0C_9D6D_02485A594E6C"
             "InstallerClass" = "11:FALSE"
             "CustomActionData" = "8:"
             }
@@ -184,20 +184,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C91B87922C20ABCAB9697BB94FB335EB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3CF010AC3F65D3DE0ED1D00188428682"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+            "AssemblyAsmDisplayName" = "8:NModbus4, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_C91B87922C20ABCAB9697BB94FB335EB"
+                    "_3CF010AC3F65D3DE0ED1D00188428682"
                     {
-                    "Name" = "8:System.Net.Http.dll"
+                    "Name" = "8:NModbus4.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:System.Net.Http.dll"
+            "SourcePath" = "8:NModbus4.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8037E40B262741D2BB89D462AFCAE361"
@@ -215,14 +215,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CDA8D55A4EAA2C34A20F2F05DDBA99C8"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AB02E275A70E2A975CDECBC77AFD724E"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Topshelf, Version=4.1.0.172, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_CDA8D55A4EAA2C34A20F2F05DDBA99C8"
+                    "_AB02E275A70E2A975CDECBC77AFD724E"
                     {
                     "Name" = "8:Topshelf.dll"
                     "Attributes" = "3:512"
@@ -246,20 +246,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FE6F9D2FC8F5B7337807B634ABB25250"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C91B87922C20ABCAB9697BB94FB335EB"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NModbus4, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_FE6F9D2FC8F5B7337807B634ABB25250"
+                    "_C91B87922C20ABCAB9697BB94FB335EB"
                     {
-                    "Name" = "8:NModbus4.dll"
+                    "Name" = "8:System.Net.Http.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:NModbus4.dll"
+            "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8037E40B262741D2BB89D462AFCAE361"
@@ -853,9 +853,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5684D6C11B694A0BBA828D57CB990660"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_36B921B051E64767941D26EA535A19FA"
             {
-            "SourcePath" = "8:..\\2_Topshelf_Dot_Net\\obj\\Debug\\2_Topshelf_Dot_Net.exe"
+            "SourcePath" = "8:..\\1_Topshelf_Dot_Net\\obj\\Release\\2_Topshelf_Dot_Net.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8037E40B262741D2BB89D462AFCAE361"
