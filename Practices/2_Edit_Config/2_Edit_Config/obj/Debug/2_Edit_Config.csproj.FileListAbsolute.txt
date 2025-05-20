@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\bin\Debug\2_Edit_Config.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\bin\Debug\2_Edit_Config.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\bin\Debug\2_Edit_Config.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\obj\Debug\2_Edit_Config.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\obj\Debug\2_Edit_Config.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\obj\Debug\2_Edit_Config.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\2_Edit_Config\2_Edit_Config\obj\Debug\2_Edit_Config.csproj.AssemblyReference.cache

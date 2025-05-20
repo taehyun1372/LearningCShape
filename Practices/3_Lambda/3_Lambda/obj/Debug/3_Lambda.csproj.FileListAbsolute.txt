@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\bin\Debug\3_Lambda.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\bin\Debug\3_Lambda.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\bin\Debug\3_Lambda.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\obj\Debug\3_Lambda.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\obj\Debug\3_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\obj\Debug\3_Lambda.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\3_Lambda\3_Lambda\obj\Debug\3_Lambda.pdb
