@@ -1,0 +1,9 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\bin\Debug\5_WCF_Server1.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\bin\Debug\5_WCF_Server1.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\bin\Debug\5_WCF_Server1.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\obj\Debug\5_WCF_Server1.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\obj\Debug\5_WCF_Server1.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\obj\Debug\5_WCF_Server1.csproj.CopyComplete
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\obj\Debug\5_WCF_Server1.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\5_WCF_Server1\5_WCF_Server1\obj\Debug\5_WCF_Server1.pdb
