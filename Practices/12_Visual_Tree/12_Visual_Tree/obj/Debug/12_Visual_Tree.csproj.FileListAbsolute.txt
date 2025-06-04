@@ -1,0 +1,15 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\bin\Debug\12_Visual_Tree.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\bin\Debug\12_Visual_Tree.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\bin\Debug\12_Visual_Tree.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\_12_Visual_Tree.Properties.Resources.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.csproj.GenerateResource.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\12_Visual_Tree\12_Visual_Tree\obj\Debug\12_Visual_Tree.pdb

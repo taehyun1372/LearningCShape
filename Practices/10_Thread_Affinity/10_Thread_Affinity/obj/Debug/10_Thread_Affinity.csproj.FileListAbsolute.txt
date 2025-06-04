@@ -1,0 +1,15 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\bin\Debug\10_Thread_Affinity.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\bin\Debug\10_Thread_Affinity.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\bin\Debug\10_Thread_Affinity.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\_10_Thread_Affinity.Properties.Resources.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.csproj.GenerateResource.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\10_Thread_Affinity\10_Thread_Affinity\obj\Debug\10_Thread_Affinity.pdb

@@ -53,7 +53,6 @@ namespace _9_ItemsControl
                 Buttons.Add(button);
             }
         }
-
     }
 
     public class ButtonModel
