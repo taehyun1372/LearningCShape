@@ -1,0 +1,17 @@
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\bin\Debug\7_Property_Trigger.exe.config
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\bin\Debug\7_Property_Trigger.exe
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\bin\Debug\7_Property_Trigger.pdb
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.g.resources
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\_7_Property_Trigger.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.exe
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\7_Property_Trigger.pdb
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\7_Property_Trigger\7_Property_Trigger\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -26,7 +26,7 @@
                 </StackPanel>
             </Button.Content>
         </Button>
-        <local:CustomButton Grid.Column="1" Content="Custom Button 1" Message="{Binding DynamicMessage}">
+        <local:CustomButton Grid.Column="1" Content="Custom Button 1" Message="{Binding DynamicMessage}" HoveringColor="{Binding HoveringColor, Mode=TwoWay}">
         </local:CustomButton>
         <local:CustomButton Grid.Column="2" Content="Custom Button 2">
         </local:CustomButton>

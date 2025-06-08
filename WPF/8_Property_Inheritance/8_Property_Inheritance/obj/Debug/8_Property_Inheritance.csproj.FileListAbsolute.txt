@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\bin\Debug\8_Property_Inheritance.exe.config
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\bin\Debug\8_Property_Inheritance.exe
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\bin\Debug\8_Property_Inheritance.pdb
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.g.resources
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\_8_Property_Inheritance.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.exe
+C:\Users\taehy\Desktop\Code\LearningCShape\WPF\8_Property_Inheritance\8_Property_Inheritance\obj\Debug\8_Property_Inheritance.pdb
