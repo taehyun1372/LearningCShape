@@ -1,0 +1,15 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\bin\Debug\10_Canvas.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\bin\Debug\10_Canvas.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\bin\Debug\10_Canvas.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\_10_Canvas.Properties.Resources.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.csproj.GenerateResource.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\10_Canvas\10_Canvas\obj\Debug\10_Canvas.pdb
