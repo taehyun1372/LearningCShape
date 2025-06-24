@@ -1,0 +1,8 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\bin\Debug\20_Codesys_Automation_Interface.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\bin\Debug\20_Codesys_Automation_Interface.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\bin\Debug\20_Codesys_Automation_Interface.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\obj\Debug\Interop.CoDeSys.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\obj\Debug\20_Codesys_Automation_Interface.csproj.ResolveComReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\obj\Debug\20_Codesys_Automation_Interface.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\obj\Debug\20_Codesys_Automation_Interface.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\20_Codesys_Automation_Interface\20_Codesys_Automation_Interface\obj\Debug\20_Codesys_Automation_Interface.pdb

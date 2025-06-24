@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Codesys_Automation_Interface", "20_Codesys_Automation_Interface\20_Codesys_Automation_Interface.csproj", "{A27B67DB-9C97-4B0E-89FE-F3931A965DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27B67DB-9C97-4B0E-89FE-F3931A965DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27B67DB-9C97-4B0E-89FE-F3931A965DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27B67DB-9C97-4B0E-89FE-F3931A965DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27B67DB-9C97-4B0E-89FE-F3931A965DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BEA1CDD-926B-4784-ABA5-6CAEE46AA7F2}
+	EndGlobalSection
+EndGlobal
