@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\bin\Debug\22_Decode_Morse_Code.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\bin\Debug\22_Decode_Morse_Code.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\bin\Debug\22_Decode_Morse_Code.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\obj\Debug\22_Decode_Morse_Code.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\obj\Debug\22_Decode_Morse_Code.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\obj\Debug\22_Decode_Morse_Code.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\22_Decode_Morse_Code\22_Decode_Morse_Code\obj\Debug\22_Decode_Morse_Code.pdb
