@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\bin\Debug\26_WCF_Server2.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\bin\Debug\26_WCF_Server2.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\bin\Debug\26_WCF_Server2.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\obj\Debug\26_WCF_Server2.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\obj\Debug\26_WCF_Server2.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\obj\Debug\26_WCF_Server2.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\26_WCF_Server2\26_WCF_Server2\obj\Debug\26_WCF_Server2.csproj.AssemblyReference.cache

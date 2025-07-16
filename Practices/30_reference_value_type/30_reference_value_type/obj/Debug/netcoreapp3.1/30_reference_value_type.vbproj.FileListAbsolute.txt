@@ -1,0 +1,13 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\bin\Debug\netcoreapp3.1\30_reference_value_type.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.AssemblyInfo.vb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.vbproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\30_reference_value_type\30_reference_value_type\obj\Debug\netcoreapp3.1\30_reference_value_type.genruntimeconfig.cache

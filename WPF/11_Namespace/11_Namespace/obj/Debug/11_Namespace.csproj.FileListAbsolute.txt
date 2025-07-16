@@ -1,0 +1,16 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\bin\Debug\11_Namespace.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\bin\Debug\11_Namespace.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\bin\Debug\11_Namespace.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\_11_Namespace.Properties.Resources.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.csproj.GenerateResource.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\11_Namespace.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF\11_Namespace\11_Namespace\obj\Debug\GeneratedInternalTypeHelper.g.cs

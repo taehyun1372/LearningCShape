@@ -1,0 +1,14 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\bin\Debug\netcoreapp3.1\28_Modules.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.vbproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.AssemblyInfo.vb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.vbproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\28_Modules\28_Modules\obj\Debug\netcoreapp3.1\28_Modules.genruntimeconfig.cache

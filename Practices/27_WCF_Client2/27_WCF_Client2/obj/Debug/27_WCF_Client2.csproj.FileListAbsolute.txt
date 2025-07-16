@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\bin\Debug\27_WCF_Client2.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\bin\Debug\27_WCF_Client2.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\bin\Debug\27_WCF_Client2.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\obj\Debug\27_WCF_Client2.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\obj\Debug\27_WCF_Client2.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\obj\Debug\27_WCF_Client2.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\27_WCF_Client2\27_WCF_Client2\obj\Debug\27_WCF_Client2.csproj.AssemblyReference.cache
