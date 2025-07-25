@@ -1,0 +1,8 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\bin\Debug\34_Select_Conversion.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\bin\Debug\34_Select_Conversion.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\bin\Debug\34_Select_Conversion.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\obj\Debug\34_Select_Conversion.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\obj\Debug\34_Select_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\obj\Debug\34_Select_Conversion.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\obj\Debug\34_Select_Conversion.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\34_Select_Conversion\34_Select_Conversion\bin\Debug\UnitDefinition.xml

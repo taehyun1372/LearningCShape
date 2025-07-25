@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\bin\Debug\38_String_Parsing.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\bin\Debug\38_String_Parsing.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\bin\Debug\38_String_Parsing.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\obj\Debug\38_String_Parsing.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\obj\Debug\38_String_Parsing.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\obj\Debug\38_String_Parsing.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\38_String_Parsing\38_String_Parsing\obj\Debug\38_String_Parsing.pdb

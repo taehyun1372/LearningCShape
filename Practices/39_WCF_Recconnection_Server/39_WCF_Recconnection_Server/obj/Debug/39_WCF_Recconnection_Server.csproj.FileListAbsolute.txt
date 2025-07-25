@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\bin\Debug\39_WCF_Recconnection_Server.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\bin\Debug\39_WCF_Recconnection_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\bin\Debug\39_WCF_Recconnection_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\obj\Debug\39_WCF_Recconnection_Server.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\obj\Debug\39_WCF_Recconnection_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\obj\Debug\39_WCF_Recconnection_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\39_WCF_Recconnection_Server\39_WCF_Recconnection_Server\obj\Debug\39_WCF_Recconnection_Server.csproj.AssemblyReference.cache

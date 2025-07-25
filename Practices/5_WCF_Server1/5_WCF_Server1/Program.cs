@@ -73,7 +73,6 @@ namespace _5_WCF_Server1
                                 CallbackManager.Clients.Remove(client);
                             }
                         }
-
                     }
                 }
             }

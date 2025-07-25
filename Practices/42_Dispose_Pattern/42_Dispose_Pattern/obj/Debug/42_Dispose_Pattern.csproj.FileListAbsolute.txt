@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\bin\Debug\42_Dispose_Pattern.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\bin\Debug\42_Dispose_Pattern.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\bin\Debug\42_Dispose_Pattern.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\obj\Debug\42_Dispose_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\obj\Debug\42_Dispose_Pattern.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\obj\Debug\42_Dispose_Pattern.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\42_Dispose_Pattern\42_Dispose_Pattern\bin\Debug\test.txt

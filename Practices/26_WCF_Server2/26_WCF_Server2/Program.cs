@@ -21,6 +21,8 @@ namespace _26_WCF_Server2
         public string SayHello(string name)
         {
             Console.WriteLine("A Client called");
+            Thread.Sleep(2000);
+            Console.WriteLine("Process done, now returning");
             return $"Hello, {name} !";
         }
 
