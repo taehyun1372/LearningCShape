@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\bin\Debug\48_TCP_Traffic_Client.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\bin\Debug\48_TCP_Traffic_Client.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\bin\Debug\48_TCP_Traffic_Client.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\obj\Debug\48_TCP_Traffic_Client.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\obj\Debug\48_TCP_Traffic_Client.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\obj\Debug\48_TCP_Traffic_Client.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\48_TCP_Traffic_Client\48_TCP_Traffic_Client\obj\Debug\48_TCP_Traffic_Client.pdb

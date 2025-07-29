@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\bin\Debug\43_WCF_Instance_Management_Server.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\bin\Debug\43_WCF_Instance_Management_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\bin\Debug\43_WCF_Instance_Management_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\obj\Debug\43_WCF_Instance_Management_Server.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\obj\Debug\43_WCF_Instance_Management_Server.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\obj\Debug\43_WCF_Instance_Management_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\43_WCF_Instance_Management_Server\43_WCF_Instance_Management_Server\obj\Debug\43_WCF_Instance_Management_Server.pdb

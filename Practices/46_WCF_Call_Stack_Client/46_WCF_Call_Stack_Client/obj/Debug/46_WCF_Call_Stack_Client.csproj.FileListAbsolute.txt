@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\bin\Debug\46_WCF_Call_Stack_Client.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\bin\Debug\46_WCF_Call_Stack_Client.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\bin\Debug\46_WCF_Call_Stack_Client.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\obj\Debug\46_WCF_Call_Stack_Client.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\obj\Debug\46_WCF_Call_Stack_Client.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\46_WCF_Call_Stack_Client\46_WCF_Call_Stack_Client\obj\Debug\46_WCF_Call_Stack_Client.pdb
