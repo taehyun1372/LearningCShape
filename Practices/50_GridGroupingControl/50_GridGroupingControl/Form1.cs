@@ -48,13 +48,41 @@ namespace _50_GridGroupingControl
                 new Product { Id = 20, Category = "Stationery", Name = "Eraser", Price = 0.80 }
             };
             gridGroupingControl1.DataSource = _products;
+            //gridGroupingControl1.ActivateCurrentCellBehavior = Syncfusion.Windows.Forms.Grid.GridCellActivateAction.None; //Disable user cell editting 
+            //gridGroupingControl1.TableControlCurrentCellStartEditing += OnTableControlCurrentCellStartEditing; //Customised editting action
+            //gridGroupingControl1.TableControlCurrentCellEditingComplete += OnTableControlCurrentCellEditingComplete; //Customised editting action
+            gridGroupingControl1.ShowGroupDropArea = true; //Showing grouping area
+            //gridGroupingControl1.TableOptions.AllowSortColumns = false; //Allowing sorting 
+            
+            gridGroupingControl1.TopLevelGroupOptions.ShowFilterBar = true;
+            foreach ( var column in gridGroupingControl1.TableDescriptor.Columns)
+            {
+                column.AllowFilter = true;
+            }
+
 
             //gridGroupingControl1.TableDescriptor.GroupedColumns.Add("Category");
         }
+
+        private void OnTableControlCurrentCellEditingComplete(object sender, GridTableControlEventArgs e)
+        {
+            MessageBox.Show("A information message after finishing edit");
+        }
+
+        private void OnTableControlCurrentCellStartEditing(object sender, GridTableControlCancelEventArgs e)
+        {
+            MessageBox.Show("A warning message before starting edit");
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            _products.RemoveAt(_products.Count() - 1);
+            if (_products.Count() > 1)
+            {
+                _products.RemoveAt(_products.Count() - 1);
+            }
         }
+
+
     }
 
 

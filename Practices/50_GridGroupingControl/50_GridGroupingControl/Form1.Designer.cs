@@ -39,11 +39,10 @@ namespace _50_GridGroupingControl
             // 
             this.gridGroupingControl1.AlphaBlendSelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(215)))));
             this.gridGroupingControl1.BackColor = System.Drawing.SystemColors.Window;
-            this.gridGroupingControl1.Location = new System.Drawing.Point(33, 77);
-            this.gridGroupingControl1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gridGroupingControl1.Location = new System.Drawing.Point(50, 118);
             this.gridGroupingControl1.Name = "gridGroupingControl1";
             this.gridGroupingControl1.ShowCurrentCellBorderBehavior = Syncfusion.Windows.Forms.Grid.GridShowCurrentCellBorder.GrayWhenLostFocus;
-            this.gridGroupingControl1.Size = new System.Drawing.Size(659, 232);
+            this.gridGroupingControl1.Size = new System.Drawing.Size(1317, 356);
             this.gridGroupingControl1.TabIndex = 0;
             this.gridGroupingControl1.Text = "gridGroupingControl1";
             this.gridGroupingControl1.UseRightToLeftCompatibleTextBox = true;
@@ -51,9 +50,10 @@ namespace _50_GridGroupingControl
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(599, 324);
+            this.button1.Location = new System.Drawing.Point(1227, 497);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(93, 23);
+            this.button1.Size = new System.Drawing.Size(140, 35);
             this.button1.TabIndex = 1;
             this.button1.Text = "Remove";
             this.button1.UseVisualStyleBackColor = true;
@@ -61,12 +61,11 @@ namespace _50_GridGroupingControl
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(720, 393);
+            this.ClientSize = new System.Drawing.Size(1391, 605);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.gridGroupingControl1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.gridGroupingControl1)).EndInit();

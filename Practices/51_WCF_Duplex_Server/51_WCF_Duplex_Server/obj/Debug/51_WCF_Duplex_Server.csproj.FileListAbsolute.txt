@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\bin\Debug\51_WCF_Duplex_Server.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\bin\Debug\51_WCF_Duplex_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\bin\Debug\51_WCF_Duplex_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\obj\Debug\51_WCF_Duplex_Server.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\obj\Debug\51_WCF_Duplex_Server.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\obj\Debug\51_WCF_Duplex_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\51_WCF_Duplex_Server\51_WCF_Duplex_Server\obj\Debug\51_WCF_Duplex_Server.csproj.AssemblyReference.cache

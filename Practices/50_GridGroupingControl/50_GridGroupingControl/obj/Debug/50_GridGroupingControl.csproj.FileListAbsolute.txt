@@ -19,3 +19,4 @@ C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Pract
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\50_GridGroupingControl\50_GridGroupingControl\obj\Debug\50_GridGroupingControl.csproj.CopyComplete
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\50_GridGroupingControl\50_GridGroupingControl\obj\Debug\50_GridGroupingControl.exe
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\50_GridGroupingControl\50_GridGroupingControl\obj\Debug\50_GridGroupingControl.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\50_GridGroupingControl\50_GridGroupingControl\obj\Debug\50_GridGroupingControl.csproj.AssemblyReference.cache
