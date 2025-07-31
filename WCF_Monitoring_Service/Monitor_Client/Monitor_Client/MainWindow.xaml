@@ -15,9 +15,20 @@
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="5*"/>
-            <RowDefinition/>
+            <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
         <ContentControl Grid.Row="1" Grid.Column="1" Name="ccChart">
         </ContentControl>
+        <ScrollViewer Grid.Row="2" Grid.Column="1" VerticalScrollBarVisibility="Auto">
+            <WrapPanel Orientation="Vertical">
+                <ToggleButton Content="Temperature" Margin="5" Width="100" Height="40"/>
+                <ToggleButton Content="Pressure" Margin="5" Width="100" Height="40"/>
+                <ToggleButton Content="Humidity" Margin="5" Width="100" Height="40"/>
+                <ToggleButton Content="Temperature" Margin="5" Width="100" Height="40"/>
+                <ToggleButton Content="Pressure" Margin="5" Width="100" Height="40"/>
+                <ToggleButton Content="Humidity" Margin="5" Width="100" Height="40"/>
+                <!-- Add more dynamically in code-behind or via data-binding -->
+            </WrapPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
