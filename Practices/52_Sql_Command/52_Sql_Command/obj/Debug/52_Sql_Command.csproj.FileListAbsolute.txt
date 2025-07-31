@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\obj\Debug\52_Sql_Command.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\obj\Debug\52_Sql_Command.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\bin\Debug\52_Sql_Command.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\bin\Debug\52_Sql_Command.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\bin\Debug\52_Sql_Command.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\obj\Debug\52_Sql_Command.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\52_Sql_Command\52_Sql_Command\obj\Debug\52_Sql_Command.pdb
