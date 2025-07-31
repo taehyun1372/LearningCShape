@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Monitor_Client.Views;
+using Monitor_Client.ViewModels;
 
 namespace Monitor_Client
 {
@@ -20,9 +22,16 @@ namespace Monitor_Client
     /// </summary>
     public partial class MainWindow : Window
     {
+        private ChartView _chartView;
+        private ChartViewModel _chartViewModel;
         public MainWindow()
         {
             InitializeComponent();
+
+            _chartViewModel = new ChartViewModel();
+            _chartView = new ChartView(_chartViewModel);
+            ccChart.Content = _chartView;
+
         }
     }
 }
