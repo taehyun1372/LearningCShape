@@ -9,12 +9,12 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel>
         <Label Content="Chart"/>
-        <syncfusion:SfChart>
+        <syncfusion:SfChart Name="SfChart1">
             <syncfusion:SfChart.PrimaryAxis>
                 <syncfusion:CategoryAxis Header="Date"/>
             </syncfusion:SfChart.PrimaryAxis>
             <syncfusion:SfChart.SecondaryAxis>
-                <syncfusion:NumericalAxis Header="Value"/>
+                <syncfusion:NumericalAxis Header="Value" Minimum="-20" Maximum="120"/>
             </syncfusion:SfChart.SecondaryAxis>
 
             <syncfusion:LineSeries ItemsSource="{Binding Series1}"

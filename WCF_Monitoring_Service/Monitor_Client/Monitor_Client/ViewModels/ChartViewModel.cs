@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
+using Monitor_Client.Core;
+using System.Threading;
+using System.Windows.Threading;
+using System.Windows;
 
 namespace Monitor_Client.ViewModels
 {
@@ -13,43 +17,45 @@ namespace Monitor_Client.ViewModels
         public ObservableCollection<DataPoint> Series2 { get; set; }
         public ObservableCollection<DataPoint> Series3 { get; set; }
 
-        public ChartViewModel()
+        private ValueProvider _valueProvider;
+        private int _count;
+
+
+        public ChartViewModel(ValueProvider valueProvider)
         {
-            Series1 = new ObservableCollection<DataPoint>
-            {
-                new DataPoint{Date="Mon", Value=20},
-                new DataPoint{Date="Tue", Value=35},
-                new DataPoint{Date="Wed", Value=40},
-                new DataPoint{Date="Thu", Value=35},
-                new DataPoint{Date="Fri", Value=40},
-                new DataPoint{Date="Sat", Value=45},
-            };
+            _valueProvider = valueProvider;
 
-            Series2 = new ObservableCollection<DataPoint>
-            {
-                new DataPoint{Date="Mon", Value=80},
-                new DataPoint{Date="Tue", Value=75},
-                new DataPoint{Date="Wed", Value=70},
-                new DataPoint{Date="Thu", Value=75},
-                new DataPoint{Date="Fri", Value=70},
-                new DataPoint{Date="Sat", Value=65},
-            };
+            Series1 = new ObservableCollection<DataPoint>();
+            Series2 = new ObservableCollection<DataPoint>();
+            Series3 = new ObservableCollection<DataPoint>();
 
-            Series3 = new ObservableCollection<DataPoint>
-            {
-                new DataPoint{Date="Mon", Value=0},
-                new DataPoint{Date="Tue", Value=0},
-                new DataPoint{Date="Wed", Value=5},
-                new DataPoint{Date="Thu", Value=10},
-                new DataPoint{Date="Fri", Value=15},
-                new DataPoint{Date="Sat", Value=5},
-            };
+            Task.Run(() => {
+                while(true)
+                {
+                    Thread.Sleep(1000);
+                    Application.Current.Dispatcher.Invoke(() =>
+                    {
+                        UpdateSensorValue();
+                    });
+                    
+                }
+            });
+
+        }
+
+        public void UpdateSensorValue()
+        {
+            _count++;
+            
+            Series1.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(1) });
+            Series2.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(2) });
+            Series3.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(3) });
         }
     }
 
     public class DataPoint
     {
-        public string Date { get; set; }
+        public int Date { get; set; }
         public double Value { get; set; }
 
     }

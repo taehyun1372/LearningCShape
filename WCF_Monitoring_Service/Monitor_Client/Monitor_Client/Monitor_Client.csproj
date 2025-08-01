@@ -61,6 +61,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Core\AnalogSensor.cs" />
+    <Compile Include="Core\ValueProvider.cs" />
     <Compile Include="ViewModels\ChartViewModel.cs" />
     <Compile Include="Views\ChartView.xaml.cs">
       <DependentUpon>ChartView.xaml</DependentUpon>

@@ -3,41 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MathNet.Numerics.Interpolation;
-using System.Timers;
-using System.Threading;
 
-namespace _53_Soomth_Random_Line
+namespace Monitor_Client.Core
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-            //var xs = new double[] { 0, 1, 2, 3 };
-            //var ys = new double[] { 10, 5, 2, 13 };
-            //
-            //var spline = CubicSpline.InterpolateNatural(xs, ys);
-            //
-            //for (double x = 0; x <= 3; x += 0.1)
-            //{
-            //    double y = spline.Interpolate(x);
-            //    Console.WriteLine($"({x}, {y})");
-            //}
-
-            var sensor = new AnalogSensor();
-            while (true)
-            {
-                Thread.Sleep(100);
-
-                Console.WriteLine($"Current Value : {sensor.CurrentValue}, Next Target :{sensor.NextTarget}, Step Counter :{sensor.StepCounter}");
-            }
-
-            Console.WriteLine("Goodbye World");
-            Console.ReadLine();
-        }
-    }
-
     public class AnalogSensor : AnalogBase
     {
         private System.Timers.Timer _timer = new System.Timers.Timer();
@@ -63,7 +31,7 @@ namespace _53_Soomth_Random_Line
             NextTarget = NextDouble(MinRange, MaxRange);
             _stepCounter = 1;
             _timer.Interval = 1000;
-            _timer.Elapsed += (s, e)=> NextStep();
+            _timer.Elapsed += (s, e) => NextStep();
             _timer.Start();
         }
 
@@ -133,7 +101,7 @@ namespace _53_Soomth_Random_Line
                 CurrentValue += GenerateNoise(StepIncrease);
             }
 
-            
+
             CurrentValue += StepIncrease;
             CurrentValue += GenerateNoise(StepIncrease);
         }
@@ -178,6 +146,4 @@ namespace _53_Soomth_Random_Line
             set { _maxNoise = value; }
         }
     }
-    
-
 }

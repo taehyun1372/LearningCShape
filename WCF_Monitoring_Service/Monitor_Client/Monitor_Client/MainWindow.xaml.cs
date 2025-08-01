@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Monitor_Client.Views;
 using Monitor_Client.ViewModels;
+using Monitor_Client.Core;
 
 namespace Monitor_Client
 {
@@ -24,11 +25,13 @@ namespace Monitor_Client
     {
         private ChartView _chartView;
         private ChartViewModel _chartViewModel;
+        private ValueProvider _valueProvider;
         public MainWindow()
         {
             InitializeComponent();
 
-            _chartViewModel = new ChartViewModel();
+            _valueProvider = new ValueProvider();
+            _chartViewModel = new ChartViewModel(_valueProvider);
             _chartView = new ChartView(_chartViewModel);
             ccChart.Content = _chartView;
 
