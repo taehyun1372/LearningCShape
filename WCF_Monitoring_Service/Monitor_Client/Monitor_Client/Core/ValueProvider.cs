@@ -13,11 +13,8 @@ namespace Monitor_Client.Core
         {
 
             _analogSensors.Add(1, new AnalogSensor());
-            Thread.Sleep(100);
             _analogSensors.Add(2, new AnalogSensor());
-            Thread.Sleep(100);
             _analogSensors.Add(3, new AnalogSensor());
-            Thread.Sleep(100);
             _analogSensors.Add(4, new AnalogSensor());
             _analogSensors.Add(5, new AnalogSensor());
             _analogSensors.Add(6, new AnalogSensor());

@@ -37,7 +37,6 @@ namespace Monitor_Client.ViewModels
                     {
                         UpdateSensorValue();
                     });
-                    
                 }
             });
 

@@ -9,7 +9,6 @@ namespace Monitor_Client.Core
     public class AnalogSensor : AnalogBase
     {
         private System.Timers.Timer _timer = new System.Timers.Timer();
-        private Random _rand = new Random();
         private int _stepCounter = 0;
         public int StepCounter
         {
@@ -22,7 +21,6 @@ namespace Monitor_Client.Core
                 _stepCounter = value;
             }
         }
-
         public AnalogSensor()
         {
             //Set the initial Values
@@ -37,7 +35,10 @@ namespace Monitor_Client.Core
 
         private double NextDouble(double min, double max)
         {
-            return min + _rand.NextDouble() * (max - min);
+            lock (_lock)
+            {
+                return min + _rand.NextDouble() * (max - min);
+            }
         }
 
         private double _nextTarget;
@@ -111,9 +112,11 @@ namespace Monitor_Client.Core
             return NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
         }
     }
-
     public class AnalogBase
     {
+        public static Random _rand = new Random();
+        public object _lock = new object();
+
         private int _longTermInterval = 10; //10 sec 
         public int LongTermInterval
         {
