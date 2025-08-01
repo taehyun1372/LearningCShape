@@ -1,0 +1,184 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MathNet.Numerics.Interpolation;
+using System.Timers;
+using System.Threading;
+
+namespace _53_Soomth_Random_Line
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+            //var xs = new double[] { 0, 1, 2, 3 };
+            //var ys = new double[] { 10, 5, 2, 13 };
+            //
+            //var spline = CubicSpline.InterpolateNatural(xs, ys);
+            //
+            //for (double x = 0; x <= 3; x += 0.1)
+            //{
+            //    double y = spline.Interpolate(x);
+            //    Console.WriteLine($"({x}, {y})");
+            //}
+
+            var sensor = new AnalogSensor();
+            while (true)
+            {
+                Thread.Sleep(100);
+
+                Console.WriteLine($"Current Value : {sensor.CurrentValue}, Next Target :{sensor.NextTarget}, Step Counter :{sensor.StepCounter}");
+            }
+
+
+            Console.WriteLine("Goodbye World");
+            Console.ReadLine();
+        }
+    }
+
+    public class AnalogSensor : AnalogBase
+    {
+        private System.Timers.Timer _timer = new System.Timers.Timer();
+        private Random _rand = new Random();
+        private int _stepCounter = 0;
+        public int StepCounter
+        {
+            get
+            {
+                return _stepCounter;
+            }
+            set
+            {
+                _stepCounter = value;
+            }
+        }
+
+        public AnalogSensor()
+        {
+            //Set the initial Values
+            CurrentValue = NextDouble(MinRange, MaxRange);
+            PrevTarget = CurrentValue;
+            NextTarget = NextDouble(MinRange, MaxRange);
+            _stepCounter = 1;
+            _timer.Interval = 1000;
+            _timer.Elapsed += (s, e)=> NextStep();
+            _timer.Start();
+        }
+
+        private double NextDouble(double min, double max)
+        {
+            return min + _rand.NextDouble() * (max - min);
+        }
+
+        private double _nextTarget;
+        public double NextTarget
+        {
+            get
+            {
+                return _nextTarget;
+            }
+            set
+            {
+                _nextTarget = value;
+            }
+        }
+
+        private double _currentValue;
+        public double CurrentValue
+        {
+            get
+            {
+                return _currentValue;
+            }
+            set
+            {
+                _currentValue = value;
+            }
+        }
+
+        private double _prevTarget;
+        public double PrevTarget
+        {
+            get
+            {
+                return _prevTarget;
+            }
+            set
+            {
+                _prevTarget = value;
+            }
+        }
+
+        private double StepIncrease
+        {
+            get
+            {
+                return (NextTarget - PrevTarget) / LongTermInterval;
+            }
+        }
+
+        public void NextStep()
+        {
+            StepCounter++;
+
+            //Long term target update 
+            if (_stepCounter % LongTermInterval == 0)
+            {
+                CurrentValue = NextTarget;
+                PrevTarget = NextTarget;
+                NextTarget = NextDouble(MinRange, MaxRange);
+
+                CurrentValue += GenerateNoise(StepIncrease);
+            }
+
+            
+            CurrentValue += StepIncrease;
+            CurrentValue += GenerateNoise(StepIncrease);
+        }
+
+        public double GenerateNoise(double stepIncrease)
+        {
+            return NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
+        }
+    }
+
+    public class AnalogBase
+    {
+        private int _longTermInterval = 10; //10 sec 
+        public int LongTermInterval
+        {
+            get { return _longTermInterval; }
+            set { _longTermInterval = value; }
+        }
+        private int _unitTime = 1; //1 sec 
+        public int UintTime
+        {
+            get { return _unitTime; }
+            set { _unitTime = value; }
+        }
+        private double _minRange = 0;
+        public double MinRange
+        {
+            get { return _minRange; }
+            set { _minRange = value; }
+        }
+        private double _maxRange = 100;
+        public double MaxRange
+        {
+            get { return _maxRange; }
+            set { _maxRange = value; }
+        }
+
+        private double _maxNoise = 0.3; //30 Percent of step increase
+        public double MaxNoise
+        {
+            get { return _maxNoise; }
+            set { _maxNoise = value; }
+        }
+    }
+    
+
+}
