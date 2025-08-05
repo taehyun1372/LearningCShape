@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\bin\Debug\54_WCF_Data_Contract.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\bin\Debug\54_WCF_Data_Contract.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\bin\Debug\54_WCF_Data_Contract.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\obj\Debug\54_WCF_Data_Contract.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\obj\Debug\54_WCF_Data_Contract.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\obj\Debug\54_WCF_Data_Contract.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\54_WCF_Data_Contract\54_WCF_Data_Contract\obj\Debug\54_WCF_Data_Contract.pdb

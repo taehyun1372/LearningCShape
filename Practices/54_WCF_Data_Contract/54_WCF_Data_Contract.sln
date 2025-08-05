@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_WCF_Data_Contract", "54_WCF_Data_Contract\54_WCF_Data_Contract.csproj", "{DB765FF3-D0D0-4548-8AEB-6883743CBACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB765FF3-D0D0-4548-8AEB-6883743CBACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB765FF3-D0D0-4548-8AEB-6883743CBACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB765FF3-D0D0-4548-8AEB-6883743CBACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB765FF3-D0D0-4548-8AEB-6883743CBACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E786290-CA87-4BDE-B3D8-FF56E33DB5DE}
+	EndGlobalSection
+EndGlobal

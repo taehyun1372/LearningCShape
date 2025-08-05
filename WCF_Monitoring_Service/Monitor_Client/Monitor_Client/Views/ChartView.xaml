@@ -37,6 +37,48 @@
                                    Label="Sensor 3"
                                    Interior="Black"
                                    ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series4}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 4"
+                                   Interior="Yellow"
+                                   ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series5}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 5"
+                                   Interior="Aqua"
+                                   ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series6}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 6"
+                                   Interior="Green"
+                                   ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series7}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 7"
+                                   Interior="Gray"
+                                   ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series8}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 8"
+                                   Interior="Purple"
+                                   ShowTooltip="True"/>
+
+            <syncfusion:LineSeries ItemsSource="{Binding Series9}"
+                                   XBindingPath="Date"
+                                   YBindingPath="Value"
+                                   Label="Sensor 9"
+                                   Interior="Coral"
+                                   ShowTooltip="True"/>
         </syncfusion:SfChart>
     </StackPanel>
 </UserControl>

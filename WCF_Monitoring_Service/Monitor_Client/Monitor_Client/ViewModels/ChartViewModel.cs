@@ -16,6 +16,12 @@ namespace Monitor_Client.ViewModels
         public ObservableCollection<DataPoint> Series1 { get; set; }
         public ObservableCollection<DataPoint> Series2 { get; set; }
         public ObservableCollection<DataPoint> Series3 { get; set; }
+        public ObservableCollection<DataPoint> Series4 { get; set; }
+        public ObservableCollection<DataPoint> Series5 { get; set; }
+        public ObservableCollection<DataPoint> Series6 { get; set; }
+        public ObservableCollection<DataPoint> Series7 { get; set; }
+        public ObservableCollection<DataPoint> Series8 { get; set; }
+        public ObservableCollection<DataPoint> Series9 { get; set; }
 
         private ValueProvider _valueProvider;
         private int _count;
@@ -28,6 +34,12 @@ namespace Monitor_Client.ViewModels
             Series1 = new ObservableCollection<DataPoint>();
             Series2 = new ObservableCollection<DataPoint>();
             Series3 = new ObservableCollection<DataPoint>();
+            Series4 = new ObservableCollection<DataPoint>();
+            Series5 = new ObservableCollection<DataPoint>();
+            Series6 = new ObservableCollection<DataPoint>();
+            Series7 = new ObservableCollection<DataPoint>();
+            Series8 = new ObservableCollection<DataPoint>();
+            Series9 = new ObservableCollection<DataPoint>();
 
             Task.Run(() => {
                 while(true)
@@ -49,6 +61,12 @@ namespace Monitor_Client.ViewModels
             Series1.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(1) });
             Series2.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(2) });
             Series3.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(3) });
+            Series4.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(4) });
+            Series5.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(5) });
+            Series6.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(6) });
+            Series7.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(7) });
+            Series8.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(8) });
+            Series9.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(9) });
         }
     }
 
