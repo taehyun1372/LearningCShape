@@ -1,0 +1,11 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\56_Diagnostics.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\56_Diagnostics.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\56_Diagnostics.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\obj\Debug\56_Diagnostics.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\obj\Debug\56_Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\obj\Debug\56_Diagnostics.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\obj\Debug\56_Diagnostics.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\log4net.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\log4net.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\bin\Debug\log4net.xml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\56_Diagnostics\56_Diagnostics\obj\Debug\56_Diagnostics.csproj.CopyComplete

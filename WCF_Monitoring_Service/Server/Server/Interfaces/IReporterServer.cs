@@ -11,7 +11,7 @@ namespace Server.Interfaces
     interface IReporterServer
     {
         [OperationContract]
-        void Parameterchanged(string message);
+        void NotifyParameter(ParameterData data);
 
     }
 }

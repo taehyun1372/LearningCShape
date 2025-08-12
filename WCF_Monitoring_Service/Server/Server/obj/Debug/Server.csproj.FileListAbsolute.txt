@@ -5,3 +5,6 @@ C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_M
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\obj\Debug\Server.exe
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\obj\Debug\Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\bin\Debug\Topshelf.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\bin\Debug\Topshelf.xml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WCF_Monitoring_Service\Server\Server\obj\Debug\Server.csproj.CopyComplete

@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.ServiceModel;
-using Reporter_Client.Interfaces;
+using Topshelf;
+using Reporter_Client.Core;
 
 namespace Reporter_Client
 {
@@ -14,25 +14,22 @@ namespace Reporter_Client
         {
             Console.WriteLine("Hello World");
 
-            var factory = new ChannelFactory<IReporterServer>("NetTcpBinding_IReporterServer");
-            var proxy = factory.CreateChannel();
-
-            while(true)
+            HostFactory.Run(x =>
             {
-                var input = Console.ReadLine();
-                if (input == "1")
+                x.Service<ReporterService>(s =>
                 {
-                    proxy.Parameterchanged("Dummy Data");
-                }
-                else if (input == "2")
-                {
-                    throw new NotImplementedException();
-                }
-                else
-                {
-                    throw new NotImplementedException();
-                }
-            }
+                    s.ConstructUsing(name => new ReporterService());
+                    s.WhenStarted(tc => tc.Start());
+                    s.WhenStopped(tc => tc.Stop());
+
+
+                    x.RunAsLocalSystem();
+                    x.SetServiceName("Report_Service");
+                    x.SetDisplayName("Report Service");
+                    x.SetDescription("This is a service to report sensor values");
+                });
+                
+            });
 
             Console.WriteLine("Goodbye World");
             Console.ReadLine();

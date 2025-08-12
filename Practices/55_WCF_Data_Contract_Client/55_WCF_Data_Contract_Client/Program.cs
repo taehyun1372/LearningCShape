@@ -32,7 +32,7 @@ namespace _55_WCF_Data_Contract_Client
         Student SayHello(string name, int id);
     }
 
-    [DataContract]
+    [DataContract(Namespace = "net.tcp://localhost:8000/Processor")]
     public class Student
     {
         [DataMember]

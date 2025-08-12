@@ -14,16 +14,6 @@ namespace _53_Soomth_Random_Line
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            //var xs = new double[] { 0, 1, 2, 3 };
-            //var ys = new double[] { 10, 5, 2, 13 };
-            //
-            //var spline = CubicSpline.InterpolateNatural(xs, ys);
-            //
-            //for (double x = 0; x <= 3; x += 0.1)
-            //{
-            //    double y = spline.Interpolate(x);
-            //    Console.WriteLine($"({x}, {y})");
-            //}
 
             var sensor = new AnalogSensor();
             while (true)
@@ -53,7 +43,6 @@ namespace _53_Soomth_Random_Line
                 _stepCounter = value;
             }
         }
-
         public AnalogSensor()
         {
             //Set the initial Values
@@ -61,14 +50,14 @@ namespace _53_Soomth_Random_Line
             PrevTarget = CurrentValue;
             NextTarget = NextDouble(MinRange, MaxRange);
             _stepCounter = 1;
-            _timer.Interval = 1000;
-            _timer.Elapsed += (s, e)=> NextStep();
+            _timer.Interval = UintTime * 1000;
+            _timer.Elapsed += (s, e) => NextStep();
             _timer.Start();
         }
 
         private double NextDouble(double min, double max)
         {
-            lock(_lock)
+            lock (_lock)
             {
                 return min + _rand.NextDouble() * (max - min);
             }
@@ -128,24 +117,20 @@ namespace _53_Soomth_Random_Line
             //Long term target update 
             if (_stepCounter % LongTermInterval == 0)
             {
-                CurrentValue = NextTarget;
+                CurrentValue = NextTarget; //We make sure that we reached the next target
                 PrevTarget = NextTarget;
                 NextTarget = NextDouble(MinRange, MaxRange);
-
-                CurrentValue += GenerateNoise(StepIncrease);
+                return;
             }
 
-            
-            CurrentValue += StepIncrease;
             CurrentValue += GenerateNoise(StepIncrease);
         }
 
         public double GenerateNoise(double stepIncrease)
         {
-            return NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
+            return stepIncrease + NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
         }
     }
-
     public class AnalogBase
     {
         public static Random _rand = new Random();

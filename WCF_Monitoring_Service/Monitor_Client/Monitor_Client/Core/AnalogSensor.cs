@@ -28,7 +28,7 @@ namespace Monitor_Client.Core
             PrevTarget = CurrentValue;
             NextTarget = NextDouble(MinRange, MaxRange);
             _stepCounter = 1;
-            _timer.Interval = 1000;
+            _timer.Interval = UintTime * 1000;
             _timer.Elapsed += (s, e) => NextStep();
             _timer.Start();
         }
@@ -95,21 +95,18 @@ namespace Monitor_Client.Core
             //Long term target update 
             if (_stepCounter % LongTermInterval == 0)
             {
-                CurrentValue = NextTarget;
+                CurrentValue = NextTarget; //We make sure that we reached the next target
                 PrevTarget = NextTarget;
                 NextTarget = NextDouble(MinRange, MaxRange);
-
-                CurrentValue += GenerateNoise(StepIncrease);
+                return;
             }
 
-
-            CurrentValue += StepIncrease;
             CurrentValue += GenerateNoise(StepIncrease);
         }
 
         public double GenerateNoise(double stepIncrease)
         {
-            return NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
+            return stepIncrease + NextDouble(-1 * (Math.Abs(stepIncrease) * MaxNoise), Math.Abs(stepIncrease) * MaxNoise);
         }
     }
     public class AnalogBase
