@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\bin\Debug\58_Configuration.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\bin\Debug\58_Configuration.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\bin\Debug\58_Configuration.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\obj\Debug\58_Configuration.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\obj\Debug\58_Configuration.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\58_Configuration\58_Configuration\obj\Debug\58_Configuration.pdb

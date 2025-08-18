@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\bin\Debug\59_XML_Definition.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\bin\Debug\59_XML_Definition.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\bin\Debug\59_XML_Definition.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\obj\Debug\59_XML_Definition.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\obj\Debug\59_XML_Definition.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\obj\Debug\59_XML_Definition.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\59_XML_Definition\59_XML_Definition\bin\Debug\XMLRepo\Definitions.xml

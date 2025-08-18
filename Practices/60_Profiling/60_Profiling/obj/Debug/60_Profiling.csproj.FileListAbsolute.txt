@@ -1,0 +1,6 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\bin\Debug\60_Profiling.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\bin\Debug\60_Profiling.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\bin\Debug\60_Profiling.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\obj\Debug\60_Profiling.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\obj\Debug\60_Profiling.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\60_Profiling\60_Profiling\obj\Debug\60_Profiling.pdb
