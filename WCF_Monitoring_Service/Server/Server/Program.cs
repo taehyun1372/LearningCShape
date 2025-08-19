@@ -18,16 +18,16 @@ namespace Server
 
             HostFactory.Run(x =>
             {
-                x.Service<ServerService>(s =>
+                x.Service<MainServer>(s =>
                 {
-                    s.ConstructUsing(name => new ServerService());
+                    s.ConstructUsing(name => new MainServer());
                     s.WhenStarted(tc => tc.Start());
                     s.WhenStopped(tc => tc.Stop());
 
 
                     x.RunAsLocalSystem();
-                    x.SetServiceName("Server_Service");
-                    x.SetDisplayName("Server Service");
+                    x.SetServiceName("Main_Server");
+                    x.SetDisplayName("Main_Server");
                     x.SetDescription("This is a service to log and provide sensor values");
                 });
 

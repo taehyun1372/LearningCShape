@@ -9,76 +9,15 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel>
         <Label Content="Chart"/>
-        <syncfusion:SfChart Name="SfChart1">
+        <syncfusion:SfChart Name="sfChart1" Series="{Binding SeriesCollection}">
             <syncfusion:SfChart.PrimaryAxis>
-                <syncfusion:CategoryAxis Header="Date"/>
+                <syncfusion:CategoryAxis Header="Time"/>
             </syncfusion:SfChart.PrimaryAxis>
             <syncfusion:SfChart.SecondaryAxis>
                 <syncfusion:NumericalAxis Header="Value" Minimum="-20" Maximum="120"/>
             </syncfusion:SfChart.SecondaryAxis>
 
-            <syncfusion:LineSeries ItemsSource="{Binding Series1}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 1"
-                                   Interior="Blue"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series2}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 2"
-                                   Interior="Red"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series3}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 3"
-                                   Interior="Black"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series4}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 4"
-                                   Interior="Yellow"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series5}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 5"
-                                   Interior="Aqua"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series6}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 6"
-                                   Interior="Green"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series7}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 7"
-                                   Interior="Gray"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series8}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 8"
-                                   Interior="Purple"
-                                   ShowTooltip="True"/>
-
-            <syncfusion:LineSeries ItemsSource="{Binding Series9}"
-                                   XBindingPath="Date"
-                                   YBindingPath="Value"
-                                   Label="Sensor 9"
-                                   Interior="Coral"
-                                   ShowTooltip="True"/>
+                
         </syncfusion:SfChart>
     </StackPanel>
 </UserControl>

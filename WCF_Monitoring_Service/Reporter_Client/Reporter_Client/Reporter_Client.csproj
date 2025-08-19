@@ -50,10 +50,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\ReporterService.cs" />
+    <Compile Include="Core\ParameterReportClient.cs" />
     <Compile Include="Interfaces\ParameterData.cs" />
     <Compile Include="Sensors\SensorSimulator.cs" />
-    <Compile Include="Interfaces\IReporterServer.cs" />
+    <Compile Include="Interfaces\IParameterReport.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sensors\AnalogSensor.cs" />

@@ -16,9 +16,9 @@ namespace Reporter_Client
 
             HostFactory.Run(x =>
             {
-                x.Service<ReporterService>(s =>
+                x.Service<ParameterReportClient>(s =>
                 {
-                    s.ConstructUsing(name => new ReporterService());
+                    s.ConstructUsing(name => new ParameterReportClient());
                     s.WhenStarted(tc => tc.Start());
                     s.WhenStopped(tc => tc.Stop());
 

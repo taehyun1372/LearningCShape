@@ -43,6 +43,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -61,8 +63,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Core\AnalogSensor.cs" />
-    <Compile Include="Core\ValueProvider.cs" />
+    <Compile Include="Interfaces\IParameterMonitor.cs" />
+    <Compile Include="Interfaces\ParameterData.cs" />
+    <Compile Include="Interfaces\ParameterHistoryData.cs" />
     <Compile Include="ViewModels\ChartViewModel.cs" />
     <Compile Include="Views\ChartView.xaml.cs">
       <DependentUpon>ChartView.xaml</DependentUpon>
@@ -110,6 +113,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

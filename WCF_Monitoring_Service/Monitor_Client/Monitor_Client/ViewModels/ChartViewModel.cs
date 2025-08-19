@@ -4,76 +4,60 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
-using Monitor_Client.Core;
 using System.Threading;
 using System.Windows.Threading;
 using System.Windows;
+using Monitor_Client.Interfaces;
+using System.Collections.ObjectModel;
 
 namespace Monitor_Client.ViewModels
 {
     public class ChartViewModel
     {
-        public ObservableCollection<DataPoint> Series1 { get; set; }
-        public ObservableCollection<DataPoint> Series2 { get; set; }
-        public ObservableCollection<DataPoint> Series3 { get; set; }
-        public ObservableCollection<DataPoint> Series4 { get; set; }
-        public ObservableCollection<DataPoint> Series5 { get; set; }
-        public ObservableCollection<DataPoint> Series6 { get; set; }
-        public ObservableCollection<DataPoint> Series7 { get; set; }
-        public ObservableCollection<DataPoint> Series8 { get; set; }
-        public ObservableCollection<DataPoint> Series9 { get; set; }
-
-        private ValueProvider _valueProvider;
-        private int _count;
-
-
-        public ChartViewModel(ValueProvider valueProvider)
+        public ObservableCollection<ChartSeriesModel> SeriesCollection { get; set; }
+        public ChartViewModel()
         {
-            _valueProvider = valueProvider;
-
-            Series1 = new ObservableCollection<DataPoint>();
-            Series2 = new ObservableCollection<DataPoint>();
-            Series3 = new ObservableCollection<DataPoint>();
-            Series4 = new ObservableCollection<DataPoint>();
-            Series5 = new ObservableCollection<DataPoint>();
-            Series6 = new ObservableCollection<DataPoint>();
-            Series7 = new ObservableCollection<DataPoint>();
-            Series8 = new ObservableCollection<DataPoint>();
-            Series9 = new ObservableCollection<DataPoint>();
-
-            Task.Run(() => {
-                while(true)
-                {
-                    Thread.Sleep(1000);
-                    Application.Current.Dispatcher.Invoke(() =>
-                    {
-                        UpdateSensorValue();
-                    });
-                }
-            });
-
+            SeriesCollection = new ObservableCollection<ChartSeriesModel>();
         }
 
-        public void UpdateSensorValue()
+        public void AddSeries(int id, ObservableCollection<ParameterLog> logs)
         {
-            _count++;
-            
-            Series1.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(1) });
-            Series2.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(2) });
-            Series3.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(3) });
-            Series4.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(4) });
-            Series5.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(5) });
-            Series6.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(6) });
-            Series7.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(7) });
-            Series8.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(8) });
-            Series9.Add(new DataPoint { Date = _count, Value = _valueProvider.GetValueBySensorIndex(9) });
+            SeriesCollection.Add(new ChartSeriesModel
+            {
+                Id = id,
+                ParameterLog = logs
+            });
+        }
+
+        internal void UpdateChartData(List<ParameterHistoryData> data)
+        {
+            Dictionary<int, ObservableCollection<ParameterLog>> dataSet = new Dictionary<int, ObservableCollection<ParameterLog>>();
+
+            foreach (ParameterHistoryData item in data)
+            {
+                if (!dataSet.ContainsKey(item.Id))
+                {
+                    dataSet.Add(item.Id,new ObservableCollection<ParameterLog>());
+                }
+                dataSet[item.Id].Add(new ParameterLog() { Value=item.Value, Timestamp=item.TimeStamp});
+            }
+
+            foreach (KeyValuePair<int, ObservableCollection<ParameterLog>> kvp in dataSet)
+            {
+                AddSeries(kvp.Key, kvp.Value);
+            }
         }
     }
 
-    public class DataPoint
+    public class ChartSeriesModel
     {
-        public int Date { get; set; }
-        public double Value { get; set; }
+        public int Id { get; set; }
+        public ObservableCollection<ParameterLog> ParameterLog { get; set; }
+    }
 
+    public class ParameterLog
+    {
+        public DateTime Timestamp { get; set; }
+        public double Value { get; set; }
     }
 }

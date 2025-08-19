@@ -14,7 +14,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Monitor_Client.Views;
 using Monitor_Client.ViewModels;
-using Monitor_Client.Core;
+using System.ServiceModel;
+using Monitor_Client.Interfaces;
 
 namespace Monitor_Client
 {
@@ -25,16 +26,26 @@ namespace Monitor_Client
     {
         private ChartView _chartView;
         private ChartViewModel _chartViewModel;
-        private ValueProvider _valueProvider;
+        private ChannelFactory<IParameterMonitor> _factory;
+        private IParameterMonitor _proxy;
+
         public MainWindow()
         {
             InitializeComponent();
 
-            _valueProvider = new ValueProvider();
-            _chartViewModel = new ChartViewModel(_valueProvider);
+            _chartViewModel = new ChartViewModel();
             _chartView = new ChartView(_chartViewModel);
             ccChart.Content = _chartView;
 
+            _factory = new ChannelFactory<IParameterMonitor>("netTcpBinding_IParameterMonitor");
+            _proxy = _factory.CreateChannel();
+
+        }
+
+        private void btnDisplay_Click(object sender, RoutedEventArgs e)
+        {
+            List<ParameterHistoryData> result = _proxy.GetAllParameterHistory();
+            _chartViewModel.UpdateChartData(result);
         }
     }
 }

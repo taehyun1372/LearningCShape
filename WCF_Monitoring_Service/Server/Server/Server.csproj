@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -57,11 +58,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\ServerService.cs" />
+    <Compile Include="Core\MainServer.cs" />
     <Compile Include="Database\DataLogger.cs" />
+    <Compile Include="Database\DataReader.cs" />
+    <Compile Include="Interfaces\IParameterMonitor.cs" />
     <Compile Include="Interfaces\ParameterData.cs" />
-    <Compile Include="Interfaces\IReporterServer.cs" />
-    <Compile Include="Interfaces\ReporterServer.cs" />
+    <Compile Include="Interfaces\IParameterReport.cs" />
+    <Compile Include="Interfaces\ParameterHistoryData.cs" />
+    <Compile Include="Interfaces\ParameterMonitor.cs" />
+    <Compile Include="Interfaces\ParameterReport.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
