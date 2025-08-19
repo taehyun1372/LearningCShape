@@ -36,4 +36,3 @@ C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Pract
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\61_Syncfusion_Chart\61_Syncfusion_Chart\obj\Debug\61_Syncfusion_Chart.csproj.CopyComplete
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\61_Syncfusion_Chart\61_Syncfusion_Chart\obj\Debug\61_Syncfusion_Chart.exe
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\61_Syncfusion_Chart\61_Syncfusion_Chart\obj\Debug\61_Syncfusion_Chart.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\61_Syncfusion_Chart\61_Syncfusion_Chart\obj\Debug\61_Syncfusion_Chart.csproj.AssemblyReference.cache
