@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\bin\Debug\647_Greed_Is_Good.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\bin\Debug\647_Greed_Is_Good.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\bin\Debug\647_Greed_Is_Good.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\obj\Debug\647_Greed_Is_Good.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\obj\Debug\647_Greed_Is_Good.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\obj\Debug\647_Greed_Is_Good.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\647_Greed_Is_Good\647_Greed_Is_Good\obj\Debug\647_Greed_Is_Good.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\bin\Debug\65_Async_Await.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\bin\Debug\65_Async_Await.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\bin\Debug\65_Async_Await.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\obj\Debug\65_Async_Await.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\obj\Debug\65_Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\obj\Debug\65_Async_Await.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\65_Async_Await\65_Async_Await\obj\Debug\65_Async_Await.pdb
