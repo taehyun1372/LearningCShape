@@ -4,3 +4,4 @@ C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Pract
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\45_WCF_Call_Stack_Server\45_WCF_Call_Stack_Server\obj\Debug\45_WCF_Call_Stack_Server.csproj.CoreCompileInputs.cache
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\45_WCF_Call_Stack_Server\45_WCF_Call_Stack_Server\obj\Debug\45_WCF_Call_Stack_Server.exe
 C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\45_WCF_Call_Stack_Server\45_WCF_Call_Stack_Server\obj\Debug\45_WCF_Call_Stack_Server.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\45_WCF_Call_Stack_Server\45_WCF_Call_Stack_Server\obj\Debug\45_WCF_Call_Stack_Server.csproj.AssemblyReference.cache

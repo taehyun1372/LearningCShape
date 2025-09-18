@@ -17,7 +17,7 @@ namespace _46_WCF_Call_Stack_Client
             Console.WriteLine("Hello World");
             var _counter = 0;
             var _proxy = new StudentServiceClient();
-            string _longMessage = new string('X', 1024 * 1); // 1 MB of 'X'
+            string _longMessage = new string('X', 1 * 1); // 1 MB of 'X'
 
             while (true)
             {
@@ -25,7 +25,7 @@ namespace _46_WCF_Call_Stack_Client
                 {
                     _counter++;
                     _proxy.SayHello(_longMessage);
-                    Console.WriteLine($"Requested {_counter}");
+                    Console.WriteLine($"Requested index : {_counter}, time : {DateTime.Now.ToString("hh:mm:ss fff")}");
                 }
             }
         }

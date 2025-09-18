@@ -1,0 +1,14 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\67_Unity_Container.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\67_Unity_Container.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\67_Unity_Container.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\Unity.Abstractions.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\Unity.Container.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\Unity.Abstractions.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\bin\Debug\Unity.Container.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\obj\Debug\67_Unity_Container.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\obj\Debug\67_Unity_Container.csproj.CopyComplete
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\obj\Debug\67_Unity_Container.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\67_Unity_Container\67_Unity_Container\obj\Debug\67_Unity_Container.pdb

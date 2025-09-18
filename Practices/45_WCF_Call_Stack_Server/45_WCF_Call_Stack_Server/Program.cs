@@ -33,9 +33,9 @@ namespace _45_WCF_Call_Stack_Server
         }
         public void SayHello(string message)
         {
-            Console.WriteLine($"Hello! {message}, {_counter}");
+            Console.WriteLine($"Received! size : {message.Length}, index : {_counter}, time : {DateTime.Now.ToString("hh:mm:ss fff")}");
+            Thread.Sleep(1);
             _counter++;
-            Thread.Sleep(30);
         }
     }
 }
