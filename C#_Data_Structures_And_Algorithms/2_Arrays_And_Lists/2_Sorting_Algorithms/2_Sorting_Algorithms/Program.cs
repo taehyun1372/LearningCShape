@@ -15,6 +15,8 @@ namespace _2_Sorting_Algorithms
             int[] testee2 = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
             int[] testee3 = { 8, 3, 5, 1, 4 };
             int[] testee4 = { 4, -10, 2, 12, 99, -100};
+            int[] testee5 = { 6, 72, 10, 8, 3, 5, 1, 4, -1, -11, 100, 55 };
+            int[] testee6 = { 1, 2, 3, 4, 5 };
 
             SelectionSort(testee1);
             DisplayArray(testee1);
@@ -24,6 +26,10 @@ namespace _2_Sorting_Algorithms
             DisplayArray(testee3);
             InsertingSort2(testee4);
             DisplayArray(testee4);
+            BubbleSort(testee5);
+            DisplayArray(testee5);
+            BubbleSort(testee6);
+            DisplayArray(testee6);
 
             Console.WriteLine("Goodbye Wolrd");
             Console.ReadLine();
@@ -77,6 +83,27 @@ namespace _2_Sorting_Algorithms
                     j--;
                 }
             }
+        }
+
+        static void BubbleSort(int[] array)
+        {
+            var count = 0;
+            bool swapFlag; //To check if there is at least one swap
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                swapFlag = false;
+                for (int j = 0; j < array.Length - i - 1; j++)
+                {
+                    count++;
+                    if (array[j] > array[j + 1])
+                    {
+                        Swap(array, j, j + 1);
+                        swapFlag = true;
+                    }
+                }
+                if (!swapFlag) break; //No swap detected. For save the number of operations, we break
+            }
+            Console.WriteLine($"{count} operation done for bubble sort");
         }
 
         static void Swap(int[] target, int index1, int index2)
