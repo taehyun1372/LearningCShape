@@ -97,6 +97,7 @@ namespace _1_Arrays
                 TerrainEnum.WATER, TerrainEnum.WALL, TerrainEnum.WATER,
                 TerrainEnum.WATER }
             };
+
             Console.OutputEncoding = UTF8Encoding.UTF8;
             for (int row = 0; row < map.GetLength(0); row++)
             {
@@ -109,10 +110,33 @@ namespace _1_Arrays
             }
             Console.ForegroundColor = ConsoleColor.Gray;
 
+            int[][] numbers2 = new int[4][];
+            numbers2[0] = new int[] { 9, 5, -9 };
+            numbers2[1] = new int[] { 0, -3, 12, 51, -3 };
+            numbers2[3] = new int[] { 54 };
+
+            DisplayArray(numbers2);
+
 
             Console.WriteLine("Goodbye World");
             Console.ReadLine();
 
+        }
+
+        static void DisplayArray(int[][] numbers)
+        {
+            foreach (int[] items in numbers)
+            {
+                if (items != null)
+                {
+                    foreach (int item in items)
+                    {
+                        Console.Write($"{item} ");
+                    }
+                }
+
+                Console.WriteLine("");
+            }
         }
     }
 }

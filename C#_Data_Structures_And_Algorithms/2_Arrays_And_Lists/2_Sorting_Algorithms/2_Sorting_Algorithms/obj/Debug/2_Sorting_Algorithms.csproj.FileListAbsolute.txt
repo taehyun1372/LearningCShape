@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\bin\Debug\2_Sorting_Algorithms.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\bin\Debug\2_Sorting_Algorithms.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\bin\Debug\2_Sorting_Algorithms.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\obj\Debug\2_Sorting_Algorithms.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\obj\Debug\2_Sorting_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\obj\Debug\2_Sorting_Algorithms.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\2_Arrays_And_Lists\2_Sorting_Algorithms\2_Sorting_Algorithms\obj\Debug\2_Sorting_Algorithms.pdb
