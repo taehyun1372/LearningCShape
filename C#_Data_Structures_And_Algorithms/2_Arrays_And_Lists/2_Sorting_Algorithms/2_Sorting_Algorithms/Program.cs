@@ -17,6 +17,7 @@ namespace _2_Sorting_Algorithms
             int[] testee4 = { 4, -10, 2, 12, 99, -100};
             int[] testee5 = { 6, 72, 10, 8, 3, 5, 1, 4, -1, -11, 100, 55 };
             int[] testee6 = { 1, 2, 3, 4, 5 };
+            int[] testee7 = { 9, 3, 7, 1, 6 };
 
             SelectionSort(testee1);
             DisplayArray(testee1);
@@ -30,6 +31,8 @@ namespace _2_Sorting_Algorithms
             DisplayArray(testee5);
             BubbleSort(testee6);
             DisplayArray(testee6);
+            QuickSort(testee7);
+            DisplayArray(testee7);
 
             Console.WriteLine("Goodbye Wolrd");
             Console.ReadLine();
@@ -104,6 +107,33 @@ namespace _2_Sorting_Algorithms
                 if (!swapFlag) break; //No swap detected. For save the number of operations, we break
             }
             Console.WriteLine($"{count} operation done for bubble sort");
+        }
+
+        static void QuickSort(int[] array)
+        {
+            Partitioning(array, 0, array.Length - 1);
+        }
+
+        static void Partitioning(int[] array, int startIndex, int endIndex)
+        {
+            var index = startIndex;
+            for (int i = startIndex; i < endIndex; i++)
+            {
+                if (array[i] < array[endIndex])
+                {
+                    Swap(array, index, i);
+                    index++;
+                }
+            }
+            Swap(array, index, endIndex);
+            if (index - startIndex > 1)
+            {
+                Partitioning(array, startIndex, index - 1);
+            }
+            if (endIndex - index > 1)
+            {
+                Partitioning(array, index + 1, endIndex);
+            }
         }
 
         static void Swap(int[] target, int index1, int index2)
