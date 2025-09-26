@@ -22,7 +22,6 @@ namespace Reporter_Client
                     s.WhenStarted(tc => tc.Start());
                     s.WhenStopped(tc => tc.Stop());
 
-
                     x.RunAsLocalSystem();
                     x.SetServiceName("Report_Service");
                     x.SetDisplayName("Report Service");

@@ -16,8 +16,6 @@
             <syncfusion:SfChart.SecondaryAxis>
                 <syncfusion:NumericalAxis Header="Value" Minimum="-20" Maximum="120"/>
             </syncfusion:SfChart.SecondaryAxis>
-
-                
         </syncfusion:SfChart>
     </StackPanel>
 </UserControl>

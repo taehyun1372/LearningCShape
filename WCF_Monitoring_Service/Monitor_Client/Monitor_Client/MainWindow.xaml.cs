@@ -39,7 +39,6 @@ namespace Monitor_Client
 
             _factory = new ChannelFactory<IParameterMonitor>("netTcpBinding_IParameterMonitor");
             _proxy = _factory.CreateChannel();
-
         }
 
         private void btnDisplay_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,7 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\bin\Debug\5_Stacks.exe.config
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\bin\Debug\5_Stacks.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\bin\Debug\5_Stacks.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\obj\Debug\5_Stacks.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\obj\Debug\5_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\obj\Debug\5_Stacks.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\5_Stacks\5_Stacks\obj\Debug\5_Stacks.pdb
