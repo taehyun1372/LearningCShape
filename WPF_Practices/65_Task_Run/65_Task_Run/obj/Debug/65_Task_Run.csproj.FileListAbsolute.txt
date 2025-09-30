@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\bin\Debug\65_Task_Run.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\bin\Debug\65_Task_Run.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\bin\Debug\65_Task_Run.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\obj\Debug\65_Task_Run.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\obj\Debug\65_Task_Run.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\obj\Debug\65_Task_Run.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\WPF_Practices\65_Task_Run\65_Task_Run\obj\Debug\65_Task_Run.pdb
