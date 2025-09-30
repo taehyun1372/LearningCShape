@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\bin\Debug\64_Simple_Pig_Latin.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\bin\Debug\64_Simple_Pig_Latin.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\bin\Debug\64_Simple_Pig_Latin.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\obj\Debug\64_Simple_Pig_Latin.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\obj\Debug\64_Simple_Pig_Latin.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\obj\Debug\64_Simple_Pig_Latin.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\64_Simple_Pig_Latin\64_Simple_Pig_Latin\obj\Debug\64_Simple_Pig_Latin.pdb

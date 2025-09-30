@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\bin\Debug\MappingDefinition.xml
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\bin\Debug\33_Serialization.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\bin\Debug\33_Serialization.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\bin\Debug\33_Serialization.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\obj\Debug\33_Serialization.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\obj\Debug\33_Serialization.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\33_Serialization\33_Serialization\obj\Debug\33_Serialization.pdb

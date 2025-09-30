@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\bin\Debug\40_WCF_Reconnection_Client.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\bin\Debug\40_WCF_Reconnection_Client.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\bin\Debug\40_WCF_Reconnection_Client.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\obj\Debug\40_WCF_Reconnection_Client.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\obj\Debug\40_WCF_Reconnection_Client.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\obj\Debug\40_WCF_Reconnection_Client.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\40_WCF_Reconnection_Client\40_WCF_Reconnection_Client\obj\Debug\40_WCF_Reconnection_Client.csproj.AssemblyReference.cache

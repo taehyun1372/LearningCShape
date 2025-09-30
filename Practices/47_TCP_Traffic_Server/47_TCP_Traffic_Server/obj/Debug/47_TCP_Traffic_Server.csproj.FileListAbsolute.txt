@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\bin\Debug\47_TCP_Traffic_Server.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\bin\Debug\47_TCP_Traffic_Server.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\bin\Debug\47_TCP_Traffic_Server.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\obj\Debug\47_TCP_Traffic_Server.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\obj\Debug\47_TCP_Traffic_Server.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\obj\Debug\47_TCP_Traffic_Server.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\47_TCP_Traffic_Server\47_TCP_Traffic_Server\obj\Debug\47_TCP_Traffic_Server.pdb

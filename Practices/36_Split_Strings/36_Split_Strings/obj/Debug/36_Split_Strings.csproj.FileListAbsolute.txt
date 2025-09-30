@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\bin\Debug\36_Split_Strings.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\bin\Debug\36_Split_Strings.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\bin\Debug\36_Split_Strings.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\obj\Debug\36_Split_Strings.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\obj\Debug\36_Split_Strings.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\obj\Debug\36_Split_Strings.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\36_Split_Strings\36_Split_Strings\obj\Debug\36_Split_Strings.pdb

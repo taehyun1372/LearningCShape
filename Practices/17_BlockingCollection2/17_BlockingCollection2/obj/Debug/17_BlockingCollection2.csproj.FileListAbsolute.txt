@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\bin\Debug\17_BlockingCollection2.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\bin\Debug\17_BlockingCollection2.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\bin\Debug\17_BlockingCollection2.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\obj\Debug\17_BlockingCollection2.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\obj\Debug\17_BlockingCollection2.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\obj\Debug\17_BlockingCollection2.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\17_BlockingCollection2\17_BlockingCollection2\obj\Debug\17_BlockingCollection2.pdb

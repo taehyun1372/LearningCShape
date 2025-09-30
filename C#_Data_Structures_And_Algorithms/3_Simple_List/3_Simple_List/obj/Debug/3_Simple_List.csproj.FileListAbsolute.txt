@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\bin\Debug\3_Simple_List.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\bin\Debug\3_Simple_List.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\bin\Debug\3_Simple_List.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\obj\Debug\3_Simple_List.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\obj\Debug\3_Simple_List.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\obj\Debug\3_Simple_List.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\3_Simple_List\3_Simple_List\obj\Debug\3_Simple_List.pdb

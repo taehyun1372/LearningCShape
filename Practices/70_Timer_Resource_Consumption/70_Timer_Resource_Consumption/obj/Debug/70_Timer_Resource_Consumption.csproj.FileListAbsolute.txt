@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\bin\Debug\70_Timer_Resource_Consumption.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\bin\Debug\70_Timer_Resource_Consumption.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\bin\Debug\70_Timer_Resource_Consumption.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\obj\Debug\70_Timer_Resource_Consumption.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\obj\Debug\70_Timer_Resource_Consumption.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\obj\Debug\70_Timer_Resource_Consumption.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\70_Timer_Resource_Consumption\70_Timer_Resource_Consumption\obj\Debug\70_Timer_Resource_Consumption.pdb

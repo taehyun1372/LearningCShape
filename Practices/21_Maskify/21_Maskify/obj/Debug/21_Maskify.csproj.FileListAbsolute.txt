@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\bin\Debug\21_Maskify.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\bin\Debug\21_Maskify.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\bin\Debug\21_Maskify.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\obj\Debug\21_Maskify.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\obj\Debug\21_Maskify.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\obj\Debug\21_Maskify.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\21_Maskify\21_Maskify\obj\Debug\21_Maskify.pdb

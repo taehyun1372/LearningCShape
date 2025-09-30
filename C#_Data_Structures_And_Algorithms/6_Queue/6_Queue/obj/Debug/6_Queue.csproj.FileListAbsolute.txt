@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\bin\Debug\6_Queue.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\bin\Debug\6_Queue.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\bin\Debug\6_Queue.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\obj\Debug\6_Queue.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\obj\Debug\6_Queue.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\obj\Debug\6_Queue.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Data_Structures_And_Algorithms\6_Queue\6_Queue\obj\Debug\6_Queue.pdb

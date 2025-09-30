@@ -1,9 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\bin\Debug\6_WCF_Client1.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\bin\Debug\6_WCF_Client1.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\bin\Debug\6_WCF_Client1.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\bin\Debug\System.ServiceModel.Http.dll
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\obj\Debug\6_WCF_Client1.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\obj\Debug\6_WCF_Client1.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\obj\Debug\6_WCF_Client1.csproj.CopyComplete
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\obj\Debug\6_WCF_Client1.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\6_WCF_Client1\6_WCF_Client1\obj\Debug\6_WCF_Client1.pdb

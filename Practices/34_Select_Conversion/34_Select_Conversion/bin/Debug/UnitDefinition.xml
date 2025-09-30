@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Root>
-	<UnitDefinitions>
-		<UnitDefinition Id="1" Name="Temperature" Multiplier="10"/>
-		<UnitDefinition Id="2" Name="Pressure" Multiplier="20"/>
-		<UnitDefinition Id="3" Name="Flow" Multiplier="30"/>
-		<UnitDefinition Id="4" Name="Percent" Multiplier="40"/>
-	</UnitDefinitions>
-</Root>

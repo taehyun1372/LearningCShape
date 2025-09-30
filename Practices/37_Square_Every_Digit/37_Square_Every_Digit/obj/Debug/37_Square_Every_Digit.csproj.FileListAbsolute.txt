@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\bin\Debug\37_Square_Every_Digit.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\bin\Debug\37_Square_Every_Digit.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\bin\Debug\37_Square_Every_Digit.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\obj\Debug\37_Square_Every_Digit.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\obj\Debug\37_Square_Every_Digit.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\obj\Debug\37_Square_Every_Digit.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\37_Square_Every_Digit\37_Square_Every_Digit\obj\Debug\37_Square_Every_Digit.pdb
