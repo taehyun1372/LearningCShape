@@ -1,0 +1,17 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio cache and settings
+.vs/
+
+# Ignore user-specific project files
+*.user
+*.suo
+
+# Ignore build logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
