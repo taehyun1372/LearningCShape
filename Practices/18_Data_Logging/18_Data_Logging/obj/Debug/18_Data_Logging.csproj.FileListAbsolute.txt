@@ -1,7 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\bin\Debug\18_Data_Logging.exe.config
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\bin\Debug\18_Data_Logging.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\bin\Debug\18_Data_Logging.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\obj\Debug\18_Data_Logging.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\obj\Debug\18_Data_Logging.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\obj\Debug\18_Data_Logging.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\Practices\18_Data_Logging\18_Data_Logging\obj\Debug\18_Data_Logging.pdb

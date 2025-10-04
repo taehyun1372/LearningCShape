@@ -1,8 +1,0 @@
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\obj\Debug\1_Custom_Type.csproj.AssemblyReference.cache
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\obj\Debug\1_Custom_Type.csproj.SuggestedBindingRedirects.cache
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\obj\Debug\1_Custom_Type.csproj.CoreCompileInputs.cache
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\bin\Debug\1_Custom_Type.exe.config
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\bin\Debug\1_Custom_Type.exe
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\bin\Debug\1_Custom_Type.pdb
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\obj\Debug\1_Custom_Type.exe
-C:\Users\taehy\Desktop\Code\LearningCShape\C#_Type_System\1_Custom_Type\1_Custom_Type\obj\Debug\1_Custom_Type.pdb

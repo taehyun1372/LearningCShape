@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using Monitor_Client.Views;
+using Monitor_Client.ViewModels;
+using System.ServiceModel;
+using Monitor_Client.Interfaces;
+
+namespace Monitor_Client
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        private ChartView _chartView;
+        private ChartViewModel _chartViewModel;
+        private ChannelFactory<IParameterMonitor> _factory;
+        private IParameterMonitor _proxy;
+
+        public MainWindow()
+        {
+            InitializeComponent();
+
+            _chartViewModel = new ChartViewModel();
+            _chartView = new ChartView(_chartViewModel);
+            ccChart.Content = _chartView;
+
+            _factory = new ChannelFactory<IParameterMonitor>("netTcpBinding_IParameterMonitor");
+            _proxy = _factory.CreateChannel();
+        }
+
+        private void btnDisplay_Click(object sender, RoutedEventArgs e)
+        {
+            List<ParameterHistoryData> result = _proxy.GetAllParameterHistory();
+            _chartViewModel.UpdateChartData(result);
+        }
+    }
+}

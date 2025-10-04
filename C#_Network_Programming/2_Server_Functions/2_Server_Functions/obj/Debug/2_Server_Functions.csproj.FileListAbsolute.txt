@@ -1,6 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\bin\Debug\2_Server_Functions.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\bin\Debug\2_Server_Functions.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\obj\Debug\2_Server_Functions.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\obj\Debug\2_Server_Functions.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\obj\Debug\2_Server_Functions.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\2_Server_Functions\2_Server_Functions\obj\Debug\2_Server_Functions.pdb

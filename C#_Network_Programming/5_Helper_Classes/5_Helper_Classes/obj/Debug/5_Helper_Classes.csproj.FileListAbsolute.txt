@@ -1,6 +1,0 @@
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\bin\Debug\5_Helper_Classes.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\bin\Debug\5_Helper_Classes.pdb
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\obj\Debug\5_Helper_Classes.csproj.AssemblyReference.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\obj\Debug\5_Helper_Classes.csproj.CoreCompileInputs.cache
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\obj\Debug\5_Helper_Classes.exe
-C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\Code\LearningCShape\C#_Network_Programming\5_Helper_Classes\5_Helper_Classes\obj\Debug\5_Helper_Classes.pdb
