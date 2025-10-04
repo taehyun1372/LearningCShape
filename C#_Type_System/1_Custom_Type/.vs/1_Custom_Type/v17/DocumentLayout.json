@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\1_Custom_Type\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694C3FB5-2700-4446-911A-8947435DE27C}|1_Custom_Type\\1_Custom_Type.csproj|c:\\users\\taehy\\onedrive\\desktop\\code\\learningcshape\\c#_type_system\\1_custom_type\\1_custom_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694C3FB5-2700-4446-911A-8947435DE27C}|1_Custom_Type\\1_Custom_Type.csproj|solutionrelative:1_custom_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\1_Custom_Type\\1_Custom_Type\\Program.cs",
+              "RelativeDocumentMoniker": "1_Custom_Type\\Program.cs",
+              "ToolTip": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\1_Custom_Type\\1_Custom_Type\\Program.cs",
+              "RelativeToolTip": "1_Custom_Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:33:18.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

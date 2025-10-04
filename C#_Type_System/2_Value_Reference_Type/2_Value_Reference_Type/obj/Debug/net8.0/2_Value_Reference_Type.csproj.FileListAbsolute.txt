@@ -1,0 +1,15 @@
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\bin\Debug\net8.0\2_Value_Reference_Type.exe
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\bin\Debug\net8.0\2_Value_Reference_Type.deps.json
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\bin\Debug\net8.0\2_Value_Reference_Type.runtimeconfig.json
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\bin\Debug\net8.0\2_Value_Reference_Type.dll
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\bin\Debug\net8.0\2_Value_Reference_Type.pdb
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.AssemblyInfoInputs.cache
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.AssemblyInfo.cs
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.csproj.CoreCompileInputs.cache
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.sourcelink.json
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.dll
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\refint\2_Value_Reference_Type.dll
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.pdb
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\2_Value_Reference_Type.genruntimeconfig.cache
+C:\Users\taehy\OneDrive\Desktop\Code\LearningCShape\C#_Type_System\2_Value_Reference_Type\2_Value_Reference_Type\obj\Debug\net8.0\ref\2_Value_Reference_Type.dll
