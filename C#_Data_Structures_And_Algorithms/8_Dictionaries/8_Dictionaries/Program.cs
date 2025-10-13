@@ -66,8 +66,43 @@ namespace _8_Dictionaries
                 Console.WriteLine("Could not find the book specified");
             }
 
-            Console.ReadLine();
+            Dictionary<string, string> dictionary = new Dictionary<string, string>
+            {
+                {"Key 1 ", "Value 1" },
+                {"Key 2 ", "Value 2" }
+            };
 
+            //string value = dictionary["key"]; key not found exception occurs
+            string value;
+            if (dictionary.TryGetValue("key", out value))
+            {
+                Console.WriteLine(value);
+            }
+            else
+            {
+                Console.WriteLine("Could not find the key specified");
+            }
+
+            if(dictionary.ContainsKey("key"))
+            {
+                Console.WriteLine(dictionary["key"]);
+            }
+            else
+            {
+                Console.WriteLine("Could not find the key specified");
+            }
+            
+            try
+            {
+                Console.WriteLine(dictionary["key"]);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Could not find the key specified");
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadLine();
         }
     }
 }
