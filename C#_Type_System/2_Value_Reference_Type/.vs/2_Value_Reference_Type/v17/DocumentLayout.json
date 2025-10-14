@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\2_Value_Reference_Type\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014B07BE-C8B9-4869-8D8B-1470D19115D1}|2_Value_Reference_Type\\2_Value_Reference_Type.csproj|c:\\users\\taehy\\onedrive\\desktop\\code\\learningcshape\\c#_type_system\\2_value_reference_type\\2_value_reference_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B07BE-C8B9-4869-8D8B-1470D19115D1}|2_Value_Reference_Type\\2_Value_Reference_Type.csproj|solutionrelative:2_value_reference_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\2_Value_Reference_Type\\2_Value_Reference_Type\\Program.cs",
+              "RelativeDocumentMoniker": "2_Value_Reference_Type\\Program.cs",
+              "ToolTip": "C:\\Users\\taehy\\OneDrive\\Desktop\\Code\\LearningCShape\\C#_Type_System\\2_Value_Reference_Type\\2_Value_Reference_Type\\Program.cs",
+              "RelativeToolTip": "2_Value_Reference_Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:34:06.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
