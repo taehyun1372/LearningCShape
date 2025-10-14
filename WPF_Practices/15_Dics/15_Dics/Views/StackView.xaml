@@ -5,7 +5,22 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:_15_Dics.Views"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <StackPanel Name="spMain" Orientation="Vertical" HorizontalAlignment="Center">
-    </StackPanel>
+             d:DesignHeight="450" d:DesignWidth="300">
+    <Border BorderThickness="2" BorderBrush="Gray">
+        <StackPanel Background="DarkGray" Height="450" Width="300" PreviewMouseDown="StackPanel_PreviewMouseDown" PreviewMouseUp="StackPanel_PreviewMouseUp" >
+            <ItemsControl ItemsSource="{Binding Discs}" VerticalAlignment="Bottom">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Rectangle
+                            Width="{Binding Width}"
+                            Height="{Binding Height}"
+                            Fill="{Binding Color}" 
+                            Stroke="gray" 
+                            StrokeThickness="1"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </StackPanel>
+    </Border>
+
 </UserControl>

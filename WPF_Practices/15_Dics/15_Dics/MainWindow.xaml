@@ -17,9 +17,8 @@
             <RowDefinition Height="3*"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <views:StackView x:Name="Stack1" Grid.Column="0"/>
+        <ContentControl Name="ccMain1" Grid.Column="0"/>
         <ContentControl Name="ccMain2" Grid.Column="1"/>
         <ContentControl Name="ccMain3" Grid.Column="2"/>
-        <Button Name="btnButton1" Grid.Row="1" Grid.Column="0" Click="btnButton1_Click"/>
     </Grid>
 </Window>

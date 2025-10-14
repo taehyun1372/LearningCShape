@@ -21,35 +21,22 @@ namespace _15_Dics.Views
     /// </summary>
     public partial class StackView : UserControl
     {
-        private int _count;
-        public int Count
-        {
-            get
-            {
-                return _count;
-            }
-            set
-            {
-                if (value != _count)
-                {
-                    _count = value;
-                    UpdateUI(_count);
-                }
-            }
-        }
-        public StackView()
+        private StackViewModel _model;
+        public StackView(StackViewModel model)
         {
             InitializeComponent();
+            _model = model;
+            this.DataContext = model;
         }
 
-        private void UpdateUI(int count)
+        private void StackPanel_PreviewMouseDown(object sender, MouseButtonEventArgs e)
         {
-            spMain.Children.Clear();
-            for (int i = 0; i < count; i++)
-            {
-                var rect = new Rectangle(){ Width=i*20, Height=20, Fill=Brushes.LightBlue};
-                spMain.Children.Add(rect);
-            }
+            _model.DestackDisc();
+        }
+
+        private void StackPanel_PreviewMouseUp(object sender, MouseButtonEventArgs e)
+        {
+            _model.OnPreviewMouseUp(sender, e);
         }
     }
 }
