@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+  <Parameters>   
+    <AnalogueParameter ID="0" Name="INLET1 PRESSURE" Description="INLET1 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="0" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="1" Name="INLET2 PRESSURE" Description="INLET2 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="2" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="2" Name="INLET3 PRESSURE" Description="INLET3 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="4" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="3" Name="INLET4 PRESSURE" Description="INLET4 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="6" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="4" Name="INLET5 PRESSURE" Description="INLET5 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="8" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="5" Name="INLET6 PRESSURE" Description="INLET6 PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="10" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="6" Name="EXPOSURE PRESSURE" Description="EXPOSURE PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="12" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="7" Name="WATER PRESSURE" Description="WATER PRESSURE" IOType="Input" Scale="0.1"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="14" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+   
+    <AnalogueParameter ID="8" Name="TANK WATER TEMPERATURE" Description="TANK WATER TEMPERATURE" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="16" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+    <AnalogueParameter ID="9" Name="TANK AIR TEMPERATURE" Description="TANK AIR TEMPERATURE" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="18" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+    <AnalogueParameter ID="10" Name="TANK EXHAUST TEMPERATURE" Description="TANK EXHAUST TEMPERATURE" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="20" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+    <AnalogueParameter ID="11" Name="PSU TEMPERATURE" Description="PSU TEMPERATURE" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="22" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	
+    <AnalogueParameter ID="12" Name="PSU POWER" Description="PSU POWER" IOType="Input" Scale="0.1" Unit="killo_watt" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="24" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="13" Name="PSU DCV" Description="PSU DCV " IOType="Input" Scale="0.1" Unit="voltage" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="26" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+    <AnalogueParameter ID="14" Name="PSU DCA" Description="PSU DCA" IOType="Input" Scale="0.1" Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="28" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>	
+	
+  </Parameters>
+</Definition>

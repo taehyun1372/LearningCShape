@@ -51,6 +51,41 @@ namespace _11_Basic_Tree
 
             tree.DisplayTree();
 
+            Tree<Person> company = new Tree<Person>();
+            company.Root = new TreeNode<Person>()
+            {
+                Data = new Person(100, "Marcin Jamro", "CEO"),
+                Parent = null
+            };
+            company.Root.Children = new List<TreeNode<Person>>()
+            {
+                new TreeNode<Person>()
+                {
+                    Data = new Person(1, "John Smith", "Head of Development"),
+                    Parent = company.Root
+                },
+                new TreeNode<Person>()
+                {
+                    Data = new Person(50, "Mary Gox", "Head of Reserch"),
+                    Parent = company.Root
+                },
+                new TreeNode<Person>()
+                {
+                    Data = new Person(150, "Lily Smith", "Head of Sales"),
+                    Parent = company.Root
+                },
+            };
+
+            company.Root.Children[2].Children = new List<TreeNode<Person>>()
+            {
+                new TreeNode<Person>()
+                {
+                    Data = new Person(30, "Anthony Black", "Sales Specialist"),
+                    Parent = company.Root.Children[2]
+                }
+            };
+
+
             Console.ReadLine();
         }
 
@@ -70,6 +105,21 @@ namespace _11_Basic_Tree
                 current = current.Parent;
             }
             return height;
+        }
+    }
+
+    
+
+    public class Person
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Role { get; set; }
+        public Person(int id, string name, string role)
+        {
+            Id = id;
+            Name = name;
+            Role = role;
         }
     }
 
