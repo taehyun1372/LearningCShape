@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommsSettings>
+  <DataSets>
+    <DataSet ID="Proteus MK2" Description="Proteus MK2 Log Data" />
+  </DataSets>
+  <ControllerSettings>
+    <Controller ID="1" Name="Abatement Controller" Description="The abatement controller" />
+  </ControllerSettings>
+  <CommsMappings>
+    <CommsMapping ControllerID="1" CommsTableID="1" CommsTableLength="136" CommsTableName="Legacy Data" DataSetID="Proteus MK2" CommsTableHeaderLength="0" LegacyTimeFormat="HH:mm:ss" LegacyTimeIndex="0" />    
+</CommsMappings>
+</CommsSettings>

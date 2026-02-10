@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+  <Parameters>
+	<!--Analogue Parameter Definition-->  
+    <AnalogueParameter ID="0" Name="INLET1 PRESSURE" Description="INLET1 PRESSURE" IOType="Input"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="0" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="1" Name="INLET2 PRESSURE" Description="INLET2 PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="2" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="2" Name="INLET3 PRESSURE" Description="INLET3 PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="4" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="3" Name="INLET4 PRESSURE" Description="INLET4 PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="6" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="4" Name="INLET5 PRESSURE" Description="INLET5 PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="8" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="5" Name="INLET6 PRESSURE" Description="INLET6 PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="10" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="6" Name="EXHAUST PRESSURE" Description="EXHAUST PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="12" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="7" Name="TANK WATER TEMP" Description="TANK WATER TEMP" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="14" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="8" Name="TANK AIR TEMP" Description="TANK AIR TEMP" IOType="Input"  Scale="0.1" Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="16" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+    <AnalogueParameter ID="9" Name="EXHAUST TEMP" Description="EXHAUST TEMP" IOType="Input" Scale="0.1"  Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="18" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="10" Name="PSU DCA" Description="PSU DCA" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="20" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>	
+	<AnalogueParameter ID="11" Name="PSU DCV" Description="PSU DCV " IOType="Input"  Unit="volt" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="22" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="12" Name="PSU POWER" Description="PSU POWER" IOType="Input"  Unit="watt" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="24" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="13" Name="TANK PRESSURE" Description="TANK PRESSURE" IOType="Input"   Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="26" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="14" Name="PCW PRESSURE" Description="PCW PRESSURE" IOType="Input" Scale="1000" Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="28" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="15" Name="PCW RETURN FLOW 1" Description="PCW RETURN FLOW 1" IOType="Input" Scale="0.1"  Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="30" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="16" Name="PCW RETURN FLOW 2" Description="PCW RETURN FLOW 2" IOType="Input"  Scale="0.1" Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="32" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="17" Name="NPW PRESSURE" Description="NPW PRESSURE" IOType="Input"  Scale="1000" Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="34" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="18" Name="NPW SUPPLY FLOW 1" Description="NPW SUPPLY FLOW 1" IOType="Input"  Scale="0.1" Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="36" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="19" Name="NPW SUPPLY FLOW 2" Description="NPW SUPPLY FLOW 2" IOType="Input"  Scale="0.1" Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="38" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+   <AnalogueParameter ID="20" Name="CDA PRESSURE" Description="CDA PRESSURE" IOType="Input"  Scale="1000" Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="40" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="21" Name="N2 INLET1 MFC" Description="N2 INLET1 MFC" IOType="Input"  Scale="0.1" Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="42" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="22" Name="PSU DCV" Description="PSU DCV " IOType="Input"  Unit="volt" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="44" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="23" Name="PSU DCA" Description="PSU DCA" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="46" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="24" Name="N2 Supply Pressure" Description="N2 Supply Pressure" IOType="Input" Scale="1000"  Unit="pascal" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="48" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="25" Name="N2 FLOW CONT L0" Description="N2 FLOW CONT L0" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="50" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="26" Name="N2 FLOW CONT L1" Description="N2 FLOW CONT L1" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="52" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="27" Name="N2 FLOW CONT L2" Description="N2 FLOW CONT L2" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="54" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="28" Name="N2 FLOW CONT L3" Description="N2 FLOW CONT L3" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="56" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="29" Name="N2 FLOW CONT L4" Description="N2 FLOW CONT L4" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="58" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="30" Name="N2 FLOW CONT L5" Description="N2 FLOW CONT L5" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="60" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="31" Name="N2 FLOW CONT L6" Description="N2 FLOW CONT L6" IOType="Input"   Unit="litre_per_minute" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="62" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="32" Name="PLASMA AMPERE L0" Description="PLASMA AMPERE L0" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="64" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="33" Name="PLASMA AMPERE L1" Description="PLASMA AMPERE L1" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="66" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="34" Name="PLASMA AMPERE L2" Description="PLASMA AMPERE L2" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="68" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="35" Name="PLASMA AMPERE L3" Description="PLASMA AMPERE L3" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="70" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="36" Name="PLASMA AMPERE L4" Description="PLASMA AMPERE L4" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="72" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="37" Name="PLASMA AMPERE L5" Description="PLASMA AMPERE L5" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="74" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="38" Name="PLASMA AMPERE L6" Description="PLASMA AMPERE L6" IOType="Input"  Unit="ampere" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="76" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="39" Name="PCW RETURN TEMP" Description="PCW RETURN TEMP" IOType="Input"   Scale="0.1" Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="78" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="40" Name="PSU TEMP" Description="PSU TEMP" IOType="Input"  Scale="0.1" Unit="degree_Celsius" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="80" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="41" Name="Drain Delay Low" Description="Drain Delay Low" IOType="Input" Scale="0.1" Unit="second" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="82" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="42" Name="Drain Delay High" Description="Drain Delay High" IOType="Input" Scale="0.1" Unit="second" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="84" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	
+	<!--Digital Parameter Definition-->
+	
+	<DigitalParameter ID="43" Name="Power Modulation Level 0" Description="Power Modulation Level 0" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="0" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="44" Name="Power Modulation Level 1" Description="Power Modulation Level 1" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="1" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="45" Name="Power Modulation Level 2" Description="Power Modulation Level 2" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="2" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="46" Name="Power Modulation Level 3" Description="Power Modulation Level 3" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="3" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="47" Name="Power Modulation Level 4" Description="Power Modulation Level 4" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="4" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="48" Name="Power Modulation Level 5" Description="Power Modulation Level 5" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="5" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="49" Name="Power Modulation Level 6" Description="Power Modulation Level 6" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="6" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="50" Name="SYSTEM RUN" Description="SYSTEM RUN" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="87" Bit="7" DataType="Digital" />
+    </DigitalParameter>
+	
+	
+	<DigitalParameter ID="51" Name="SYSTEM MANUAL" Description="SYSTEM MANUAL" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="0" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="52" Name="SYSTEM AUTO" Description="SYSTEM AUTO" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="1" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="53" Name="SYSTEM IDLE" Description="SYSTEM IDLE" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="2" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="54" Name="SYSTEM COOLING" Description="SYSTEM COOLING" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="3" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="55" Name="SYSTEM ALARM" Description="SYSTEM ALARM" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="4" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="56" Name="SYSTEM EMO" Description="SYSTEM EMO" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="5" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="57" Name="Water Drain Pump Run" Description="Water Drain Pump Run" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="6" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="58" Name="Levelswitch LOW" Description="Levelswitch LOW" IOType="Input" Unit="bit" >
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="86" Bit="7" DataType="Digital" />
+    </DigitalParameter>
+	
+	
+	<DigitalParameter ID="59" Name="Levelswitch HIGH" Description="Levelswitch HIGH" IOType="Input" Unit="bit" >
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="0" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="60" Name="Levelswitch HIGHHIGH" Description="Levelswitch HIGHHIGH" IOType="Input" Unit="bit" >
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="1" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="61" Name="[Option] Water Injection System" Description="[Option] Water Injection System" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="2" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="62" Name="[Option] SO2 Gas Process " Description="[Option] SO2 Gas Process " IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="3" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="63" Name="[Option] Remote Control Option " Description="[Option] Remote Control Option " IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="4" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="64" Name="[Option] Level Switch Recovery Option " Description="[Option] Level Switch Recovery Option " IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="5" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="65" Name="[Option] Level Switch Type" Description="[Option] Level Switch Type" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="6" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="66" Name="[Option] Individual Inlet Control" Description="[Option] Individual Inlet Control" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="89" Bit="7" DataType="Digital" />
+    </DigitalParameter>	
+	
+	<DigitalParameter ID="67" Name="CMS Connection Status" Description="CMS Connection Status" IOType="Info" Unit="bit" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="88" Bit="0" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="68" Name="[Option] Interlock Value setting" Description="[Option] Interlock Value setting" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="88" Bit="1" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="69" Name="[Option] Modulation On Signal" Description="[Option] Modulation On Signal" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="88" Bit="2" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="70" Name="[Option] Interface Out Chamber" Description="[Option] Interface Out Chamber" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="88" Bit="3" DataType="Digital" />
+    </DigitalParameter>
+	<DigitalParameter ID="71" Name="[Option] B.V State at Idle " Description="[Option] B.V State at Idle" IOType="Input" Unit="bit">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="88" Bit="4" DataType="Digital" />
+    </DigitalParameter>
+	
+	<AnalogueParameter ID="72" Name="Drain Delay Low On" Description="Drain Delay Low On" IOType="Input" Scale="0.1" Unit="second" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="90" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	<AnalogueParameter ID="73" Name="Drain Delay Low Off" Description="Drain Delay Low Off" IOType="Input" Scale="0.1" Unit="second" Internal="False">
+      <ValueLocation ControllerId="1" CommsTableId="1" Index="92" Size="2" DataType="Signed" ByteOrder="BigEndian" />
+    </AnalogueParameter>
+	
+	</Parameters>
+</Definition>

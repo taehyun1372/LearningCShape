@@ -66,8 +66,82 @@ namespace _8_Dictionaries
                 Console.WriteLine("Could not find the book specified");
             }
 
-            Console.ReadLine();
+            Dictionary<string, string> dictionary = new Dictionary<string, string>
+            {
+                {"Key 1 ", "Value 1" },
+                {"Key 2 ", "Value 2" }
+            };
 
+            //string value = dictionary["key"]; key not found exception occurs
+            string value;
+            if (dictionary.TryGetValue("key", out value))
+            {
+                Console.WriteLine(value);
+            }
+            else
+            {
+                Console.WriteLine("Could not find the key specified");
+            }
+
+            if(dictionary.ContainsKey("key"))
+            {
+                Console.WriteLine(dictionary["key"]);
+            }
+            else
+            {
+                Console.WriteLine("Could not find the key specified");
+            }
+            
+            try
+            {
+                Console.WriteLine(dictionary["key"]);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Could not find the key specified");
+                Console.WriteLine(e.Message);
+            }
+
+            Dictionary<string, string> products = new Dictionary<string, string>
+            {
+                { "5900000000000","A1" },
+                { "5901111111111","B5" },
+                { "5902222222222","C9" },
+            };
+            products["5903333333333"] = "D7";
+            try
+            {
+                products.Add("5904444444444", "A3");
+            }
+            catch (ArgumentException)
+            {
+                Console.WriteLine("The entry already exists.");
+            }
+            Console.WriteLine("All products");
+            if (products.Count == 0)
+            {
+                Console.WriteLine("Empty");
+            }
+            else
+            {
+                foreach(KeyValuePair<string, string> product in products)
+                {
+                    Console.WriteLine($" - {product.Key}: { product.Value}");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Search by barcode: ");
+            string barcode = Console.ReadLine();
+            if (products.TryGetValue(barcode, out string location))
+            {
+                Console.WriteLine($"The product is in the are {location}");
+            }
+            else
+            {
+                Console.WriteLine("The product does not exist");
+            }
+
+            Console.ReadLine();
         }
     }
 }
