@@ -39,14 +39,14 @@ namespace _3_Http_Client
 
         private static async Task<string> GetFromWikipediaAsync(string keyword)
         {
-            var builder = new UriBuilder("https://ko.widipedia.org/w/api.php");
+            var builder = new UriBuilder("https://ko.wikipedia.org/w/api.php");
             var content = new FormUrlEncodedContent(new Dictionary<string, string>()
             {
                 ["action"] = "query",
                 ["prop"] = "revisions",
                 ["rvprop"] = "content",
                 ["format"] = "xml",
-                ["titles"] = "keyword",
+                ["titles"] = keyword,
             });
 
             builder.Query = await content.ReadAsStringAsync();

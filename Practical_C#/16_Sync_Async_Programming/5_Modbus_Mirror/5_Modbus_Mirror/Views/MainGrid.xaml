@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="_5_Modbus_Mirror.Views.MainGrid"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_5_Modbus_Mirror.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="400">
+    <Grid>
+        <DataGrid ItemsSource="{Binding Rows}"
+          Name="myDataGrid"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          CanUserResizeRows="False"
+          CanUserResizeColumns="False"
+          SelectionUnit="Cell"
+          SelectionMode="Single"
+          HeadersVisibility="All"
+                  CellEditEnding="myDataGrid_CellEditEnding">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="C1" Width="*" Binding="{Binding C1}" />
+                <DataGridTextColumn Header="C2" Width="*" Binding="{Binding C2}" />
+                <DataGridTextColumn Header="C3" Width="*" Binding="{Binding C3}" />
+                <DataGridTextColumn Header="C4" Width="*" Binding="{Binding C4}" />
+                <DataGridTextColumn Header="C5" Width="*" Binding="{Binding C5}" />
+                <DataGridTextColumn Header="C6" Width="*" Binding="{Binding C6}" />
+                <DataGridTextColumn Header="C7" Width="*" Binding="{Binding C7}" />
+                <DataGridTextColumn Header="C8" Width="*" Binding="{Binding C8}" />
+                <DataGridTextColumn Header="C9" Width="*" Binding="{Binding C9}" />
+                <DataGridTextColumn Header="C10" Width="*" Binding="{Binding C10}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
