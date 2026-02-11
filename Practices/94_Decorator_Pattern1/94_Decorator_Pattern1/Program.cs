@@ -157,8 +157,17 @@ namespace _94_Decorator_Pattern1
                 }
 
             }
-            ushort[] registers = _master.ReadHoldingRegisters(SlaveId, StartAddress, NumRegisters);
-            return registers;
+            try
+            {
+                ushort[] registers = _master.ReadHoldingRegisters(SlaveId, StartAddress, NumRegisters);
+                return registers;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("Error happened during sending packets..")
+            }
+            
         }
     }
 }
