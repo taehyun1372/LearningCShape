@@ -7,7 +7,10 @@
              mc:Ignorable="d" 
              d:DesignHeight="400" d:DesignWidth="400">
     <Grid>
-        <DataGrid ItemsSource="{Binding Rows}"
+        <StackPanel>
+            <Label Height="25" Content="{Binding ConnectionState}"/>
+            
+            <DataGrid ItemsSource="{Binding Rows}"
           Name="myDataGrid"
           AutoGenerateColumns="False"
           CanUserAddRows="False"
@@ -18,18 +21,20 @@
           HeadersVisibility="All"
                   CellEditEnding="myDataGrid_CellEditEnding">
 
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="C1" Width="*" Binding="{Binding C1}" />
-                <DataGridTextColumn Header="C2" Width="*" Binding="{Binding C2}" />
-                <DataGridTextColumn Header="C3" Width="*" Binding="{Binding C3}" />
-                <DataGridTextColumn Header="C4" Width="*" Binding="{Binding C4}" />
-                <DataGridTextColumn Header="C5" Width="*" Binding="{Binding C5}" />
-                <DataGridTextColumn Header="C6" Width="*" Binding="{Binding C6}" />
-                <DataGridTextColumn Header="C7" Width="*" Binding="{Binding C7}" />
-                <DataGridTextColumn Header="C8" Width="*" Binding="{Binding C8}" />
-                <DataGridTextColumn Header="C9" Width="*" Binding="{Binding C9}" />
-                <DataGridTextColumn Header="C10" Width="*" Binding="{Binding C10}" />
-            </DataGrid.Columns>
-        </DataGrid>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="C1" Width="*" Binding="{Binding C1}" />
+                    <DataGridTextColumn Header="C2" Width="*" Binding="{Binding C2}" />
+                    <DataGridTextColumn Header="C3" Width="*" Binding="{Binding C3}" />
+                    <DataGridTextColumn Header="C4" Width="*" Binding="{Binding C4}" />
+                    <DataGridTextColumn Header="C5" Width="*" Binding="{Binding C5}" />
+                    <DataGridTextColumn Header="C6" Width="*" Binding="{Binding C6}" />
+                    <DataGridTextColumn Header="C7" Width="*" Binding="{Binding C7}" />
+                    <DataGridTextColumn Header="C8" Width="*" Binding="{Binding C8}" />
+                    <DataGridTextColumn Header="C9" Width="*" Binding="{Binding C9}" />
+                    <DataGridTextColumn Header="C10" Width="*" Binding="{Binding C10}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
     </Grid>
 </UserControl>
